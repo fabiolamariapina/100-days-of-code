@@ -35,5 +35,14 @@ makeup.put("/:id", (req, res) => {
     }
   );
 });
+// delete
+makeup.delete("/:id", (req, res) => {
+  Makeup.findByIdAndRemove(req.params.id, (err, deletedMakeup) => {
+    if (err) {
+      res.status(400).json({ error: err.message });
+    }
+    res.status(200).send(deletedMakeup);
+  });
+});
 
 module.exports = makeup;
