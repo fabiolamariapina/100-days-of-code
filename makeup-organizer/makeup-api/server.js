@@ -5,6 +5,9 @@ const PORT = 3003;
 // initalize mongoose
 const mongoose = require("mongoose");
 
+// middleware
+app.use(express.json());
+
 // mongoose connection
 // Database Error / Disconnection
 mongoose.connection.on("error", (err) =>
