@@ -21,5 +21,19 @@ makeup.post("/", async (req, res) => {
     res.status(200).send(createdMakeup);
   });
 });
+// update
+makeup.put("/:id", (req, res) => {
+  Makeup.findByIdAndUpdate(
+    req.params.id,
+    req.body,
+    { new: true },
+    (err, updatedMakeup) => {
+      if (err) {
+        res.status(400).json({ error: err.message });
+      }
+      res.status(200).send(updatedMakeup);
+    }
+  );
+});
 
 module.exports = makeup;
