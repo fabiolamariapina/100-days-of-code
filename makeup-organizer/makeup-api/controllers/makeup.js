@@ -5,7 +5,12 @@ const Makeup = require("../models/makeup.js");
 // ROUTES
 // Index
 makeup.get("/", (req, res) => {
-  res.send("index");
+  Makeup.find({}, (err, foundMakeup) => {
+    if (err) {
+      res.status(400).json({ error: err.message });
+    }
+    res.status(200).json(foundMakeup);
+  });
 });
 // Create
 makeup.post("/", async (req, res) => {
