@@ -7,6 +7,9 @@ export default class App extends Component {
     return (
       <div id="root">
         <Header />
+        <main className="landing-main">
+          <h2 className="call-to-action">I HELP YOU ORGANIZE YOUR MAKEUP</h2>
+        </main>
         <Footer />
       </div>
     );

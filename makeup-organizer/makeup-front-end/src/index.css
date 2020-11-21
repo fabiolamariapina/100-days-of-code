@@ -11,6 +11,11 @@ body {
   font-weight: 800;
 }
 
+main {
+  background-color: #ddaf94;
+  color: #fdf8f5;
+}
+
 footer {
   font-style: italic;
 }
