@@ -7,7 +7,12 @@ export default class Footer extends Component {
         <p className="trademark">2020 All Right Reserved</p>
         <p className="credit">
           Coded by{" "}
-          <a href="https://www.linkedin.com/in/fabiolampina/">Fabiola Pina</a>
+          <a
+            className="linkedIn-link"
+            href="https://www.linkedin.com/in/fabiolampina/"
+          >
+            Fabiola Pina
+          </a>
         </p>
       </footer>
     );
