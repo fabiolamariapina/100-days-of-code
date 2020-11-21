@@ -10,6 +10,7 @@ export default class Footer extends Component {
           <a
             className="linkedIn-link"
             href="https://www.linkedin.com/in/fabiolampina/"
+            target="_blank"
           >
             Fabiola Pina
           </a>
