@@ -17,10 +17,6 @@ footer {
 
 a {
   text-decoration: none;
-}
-
-/* unvisited link */
-a:link {
   color: #4f4846;
 }
 
