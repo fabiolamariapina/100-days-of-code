@@ -1,23 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 1: November 20, 2020 (Example 1)
+### Day 1: November 20, 2020
+
 ##### (delete me or comment me out)
 
 **Today's Progress**: created api for my makeup organizer app, got all my routes and models working, created basic react app, did not edit anything on basic react app
 
-**Thoughts:** Overall, I feel like I am getting better with setting up the API of a react app. I was able to do most of it by memeory and understand the why behind the code, but there are a few things I forgot. If I did forget something, I referred to my General Assembly Software Engineering Immersive notes. Out of everything I did today, the most intuitive was creating my basic react app. 
+**Thoughts:** Overall, I feel like I am getting better with setting up the API of a react app. I was able to do most of it by memeory and understand the why behind the code, but there are a few things I forgot. If I did forget something, I referred to my General Assembly Software Engineering Immersive notes. Out of everything I did today, the most intuitive was creating my basic react app.
 
 **Link to work:** no working link yet
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: November 21, 2020
+
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Tried version control to begin working on my app's landing page and did not work out due to various issues I had with Git, recreated my API from yesterday,
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: For day 2 of 100 Days of Code, I tried to focus on creating the front-end of my app using React and to practice version control using Git. However, it all went downhill the moment I decided to create a git branch for my landing page. At first, everything was fine when I created a git branch for my landing page. Reflecting on today, I realize the problems began when everytime I psuh a change to my landing branch that worked, I did not imediately merge it with my master branch. Trying to fix the problems caused by this mistake I made just kept getting more and more difficult. In a moment of frsutration and rage (and not my proudest moment), I deleted my whole app. Thus, I started over again, recreating the API and react app from yesterday. Once I recreated my API and set up my react app, it was time to begin creating my landing page. Today, I was able to get all the components of my landing page rendered and style it. I still have to fix some image sizing and positioning issues. Once I resolve those issues, I paln to add my react router and create a component for my landing page.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 1: June 27, Monday
 
@@ -26,5 +27,6 @@
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
