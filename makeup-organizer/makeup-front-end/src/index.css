@@ -16,24 +16,39 @@ main {
   color: #fdf8f5;
 }
 
-.landing-main {
+.landing-main,
+.landing-links {
   display: flex;
+}
+
+.landing-main {
   justify-content: space-between;
 }
 
-.welcome {
-  max-width: 50%;
+.welcome,
+.new-user {
   position: relative;
+}
+
+.welcome,
+.landing-image {
+  max-width: 50%;
+}
+
+.welcome {
   top: 100px;
+}
+
+h3,
+.new-user {
+  text-align: center;
 }
 
 h3 {
   font-size: 60px;
-  text-align: center;
 }
 
 .landing-links {
-  display: flex;
   flex-direction: column;
 }
 
@@ -48,8 +63,6 @@ h3 {
 }
 
 .new-user {
-  text-align: center;
-  position: relative;
   top: 10px;
 }
 
@@ -65,7 +78,6 @@ h3 {
 }
 
 .landing-image {
-  max-width: 50%;
   height: auto;
 }
 
@@ -75,6 +87,9 @@ footer {
 
 a {
   text-decoration: none;
+}
+
+.linkedIn-link {
   color: #4f4846;
 }
 
