@@ -45,6 +45,12 @@ h3 {
   margin: 0 auto;
 }
 
+.new-user {
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+
 .new-user,
 .log-in-link {
   color: #fdf8f5;
