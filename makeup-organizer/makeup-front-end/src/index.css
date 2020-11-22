@@ -16,6 +16,33 @@ main {
   color: #fdf8f5;
 }
 
+.landing-main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.call-to-action {
+  max-width: 50%;
+}
+
+h3 {
+  font-size: 60px;
+  text-align: center;
+}
+
+.landing-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.new-user {
+  color: #fdf8f5;
+}
+
+.new-user:hover {
+  color: #4f4846;
+}
+
 footer {
   font-style: italic;
 }
@@ -25,7 +52,6 @@ a {
   color: #4f4846;
 }
 
-/* mouse over link */
-a:hover {
+.linkedIn-link:hover {
   color: #ddaf94;
 }
