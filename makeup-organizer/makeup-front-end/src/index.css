@@ -27,7 +27,7 @@ main {
 
 h3 {
   font-size: 60px;
-  
+  text-align: center;
 }
 
 .landing-links {
@@ -37,7 +37,7 @@ h3 {
 
 .log-in {
   background-color: #ddaf94;
-  border: none;
+  border: 1px solid #ddaf94;
   border-radius: 15px;
   padding: 10px;
   cursor: pointer;
