@@ -20,11 +20,11 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-### Day 1: June 27, Monday
+### Day 3: November 22, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I mostly spent my time styling my landing page using CSS.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** For day 3 of 100 days of code, I spent it styling the landing page of my makeup organizer app using CSS. Overall, I would consider CSS one of my main strengths, thus making it an easy day, especially compared to yesterday. My favorite part of the day was making my code dry because it nothing makes me more satisfied than DRY code.
 
 **Link(s) to work**
 
