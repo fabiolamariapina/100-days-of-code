@@ -15,7 +15,9 @@ export default class App extends Component {
               </div>
               <div className="landing-links">
                 <button className="log-in">
-                  <a href="/sessions/new">LOG IN</a>
+                  <a className="log-in-link" href="/sessions/new">
+                    LOG IN
+                  </a>
                 </button>
                 <a className="new-user" href="/users/new">
                   NEW USER? CLICK HERE TO CREATE AN ACCOUNT FOR FREE!

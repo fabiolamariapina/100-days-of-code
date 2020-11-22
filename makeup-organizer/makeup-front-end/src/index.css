@@ -12,7 +12,7 @@ body {
 }
 
 main {
-  background-color: #ddaf94;
+  background-color: #e8cebf;
   color: #fdf8f5;
 }
 
@@ -35,12 +35,30 @@ h3 {
   flex-direction: column;
 }
 
-.new-user {
-  color: #fdf8f5;
+.log-in {
+  background-color: #ddaf94;
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+  cursor: pointer;
+  width: 30%;
+  margin: 0 auto;
 }
 
-.new-user:hover {
+.new-user,
+.log-in-link {
+  color: #fdf8f5;
+  font-size: 16px;
+}
+
+.new-user:hover,
+.log-in-link:hover {
   color: #4f4846;
+}
+
+.landing-image {
+  max-width: 50%;
+  height: auto;
 }
 
 footer {
