@@ -21,13 +21,13 @@ main {
   justify-content: space-between;
 }
 
-.call-to-action {
+.welcome {
   max-width: 50%;
 }
 
 h3 {
   font-size: 60px;
-  text-align: center;
+  
 }
 
 .landing-links {
