@@ -9,16 +9,18 @@ export default class App extends Component {
         <Header />
         <main>
           <div className="landing-main">
-            <div className="call-to-action">
-              <h3>I HELP YOU ORGANIZE YOUR MAKEUP</h3>
-            </div>
-            <div className="landing-links">
-              <button className="log-in">
-                <a href="/sessions/new">LOG IN</a>
-              </button>
-              <a className="new-user" href="/users/new">
-                NEW USER? CLICK HERE TO CREATE AN ACCOUNT FOR FREE!
-              </a>
+            <div className="welcome">
+              <div className="call-to-action">
+                <h3>I HELP YOU ORGANIZE YOUR MAKEUP</h3>
+              </div>
+              <div className="landing-links">
+                <button className="log-in">
+                  <a href="/sessions/new">LOG IN</a>
+                </button>
+                <a className="new-user" href="/users/new">
+                  NEW USER? CLICK HERE TO CREATE AN ACCOUNT FOR FREE!
+                </a>
+              </div>
             </div>
             <div className="landing-image">
               <img
