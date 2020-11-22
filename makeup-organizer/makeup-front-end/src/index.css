@@ -83,13 +83,11 @@ h3 {
 
 footer {
   font-style: italic;
+  opacity: 0.75;
 }
 
 a {
   text-decoration: none;
-}
-
-.linkedIn-link {
   color: #4f4846;
 }
 
