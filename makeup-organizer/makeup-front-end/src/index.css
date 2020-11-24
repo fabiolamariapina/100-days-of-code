@@ -57,26 +57,24 @@ h3 {
 .log-in {
   background-color: #ddaf94;
   border: 1px solid #ddaf94;
+  color: #fdf8f5;
   border-radius: 15px;
   padding: 10px 15px;
   cursor: pointer;
   width: 30%;
   margin: 0 auto;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .new-user {
   top: 15px;
 }
 
-.new-user,
-.log-in-link {
+.new-user {
   color: #fdf8f5;
   font-size: 16px;
 }
 
-.new-user:hover,
-.log-in-link:hover {
+.new-user:hover {
   color: #4f4846;
 }
 

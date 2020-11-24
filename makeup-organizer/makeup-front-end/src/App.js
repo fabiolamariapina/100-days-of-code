@@ -14,11 +14,7 @@ export default class App extends Component {
                 <h3>I HELP YOU ORGANIZE YOUR MAKEUP</h3>
               </div>
               <div className="landing-links">
-                <button className="log-in">
-                  <a className="log-in-link" href="/sessions/new">
-                    LOG IN
-                  </a>
-                </button>
+                <button className="log-in">LOG IN</button>
                 <a className="new-user" href="/users/new">
                   NEW USER? CLICK HERE TO CREATE AN ACCOUNT FOR FREE!
                 </a>
