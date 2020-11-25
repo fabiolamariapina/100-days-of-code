@@ -30,3 +30,14 @@
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 4: November 24, 2020
+
+**Today's Progress**: Finished styling landing page and installed my react router.
+
+**Thoughts** For day 4 of 100 days of code, I added the finishing touches to my landing page. I tried to experiment with my styling by using materialize. It did not turn out the way I envisioned, but materialize is definitely a CSS framework I want to experiment with in one of my next few projects. My next challenge was to install my router. This is only my second time using a React router, but it went better than I expected. I feel like I am finally understanding how the react-router works and how to install it. It is a technology I want to continue working with. My highlight of today was finally being able to do version control using Git. It felt especially awesome because I was having trouble with it on day 2. If I can improve and grow that much in less than a week, I am excited to see what the remaining days of this challenge will bring.
+
+**Link(s) to work**
+
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence
