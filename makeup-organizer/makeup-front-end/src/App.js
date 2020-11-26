@@ -15,6 +15,9 @@ export default class App extends Component {
     };
     this.getMakeup = this.getMakeup.bind(this);
   }
+  compoundDidMount() {
+    this.getMakeup();
+  }
   getMakeup() {
     fetch(baseURL + "/makeup")
       .then(
