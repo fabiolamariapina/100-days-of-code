@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 // pages to render
 import Landing from "./components/Landing";
+import Index from "./components/Index";
 
 const baseURL = "http://localhost:3003";
 
@@ -38,6 +39,7 @@ export default class App extends Component {
         <main>
           <Switch>
             <Route path="/" exact component={Landing} />
+            <Route path="/makeup" component={Index} />
           </Switch>
         </main>
         <Footer />
