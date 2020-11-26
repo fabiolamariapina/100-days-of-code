@@ -4,7 +4,15 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Landing from "./components/Landing";
 
+// base URL
+
 export default class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      makeup: [],
+    };
+  }
   render() {
     return (
       <Router>
