@@ -7,7 +7,7 @@ const PORT = 3003;
 // middleware
 app.use(express.json());
 
-const whitelist = ["http://localhost:3000, htt://localhost:3003"];
+const whitelist = ["http://localhost:3000"];
 const corsOptions = {
   origin: function (origin, callback) {
     if (whitelist.includes(origin)) {
