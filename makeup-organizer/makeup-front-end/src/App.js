@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Landing from "./components/Landing";
 
-// base URL
+const baseURL = "http://localhost:3003";
 
 export default class App extends Component {
   constructor(props) {
