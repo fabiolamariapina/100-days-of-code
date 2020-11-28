@@ -21,16 +21,14 @@ export default class App extends Component {
   }
   getMakeup() {
     fetch(baseURL + "/makeup")
-      .then(
-        (data) => {
-          return data.json();
-        },
-        (err) => console.log(err)
-      )
-      .then(
-        (parsedData) => this.setState({ holidays: parsedData }),
-        (err) => console.log(err)
-      );
+      .then((data) => {
+        return data.json();
+      })
+      .then((parsedData) => {
+        this.setState({
+          makeup: parsedData,
+        });
+      });
   }
   render() {
     return (
