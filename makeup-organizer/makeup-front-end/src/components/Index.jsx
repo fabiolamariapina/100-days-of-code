@@ -3,9 +3,13 @@ import React, { Component } from "react";
 export default class Index extends Component {
   render() {
     return (
-      <div>
+      <main>
         <h3>Your collection</h3>
-      </div>
+        <h4>Name</h4>
+        <p>insert image</p>
+        <p>Edit</p>
+        <p>Delete</p>
+      </main>
     );
   }
 }
