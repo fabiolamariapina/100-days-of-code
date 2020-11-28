@@ -5,10 +5,19 @@ export default class Index extends Component {
     return (
       <main>
         <h3>Your collection</h3>
-        <h4>Name</h4>
+        <div>
+          {this.props.makeup.map((makeup) => {
+            return (
+              <div>
+                <h4>{makeup.name}</h4>
+              </div>
+            );
+          })}
+        </div>
+        {/* <h4>Name</h4>
         <p>insert image</p>
         <p>Edit</p>
-        <p>Delete</p>
+        <p>Delete</p> */}
       </main>
     );
   }
