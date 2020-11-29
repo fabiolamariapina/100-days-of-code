@@ -42,3 +42,10 @@
 **Today's Progress**: Continues setting up my react router and was able to render an index/show page with my router.
 
 **Thoughts** For day 5 of 100 days of code, I took it easy compared to the other days. Since it's Thanksgiving week, I am not in much of a working mood as usual. Instead of beating myself up for not doing "enough" work, I am instead proud of myself for doing a tiny bit. The cliche "a little goes a long way" is a cliche for a reason. I finally finished setting up my react-router and I have a better understanding of how it works compared to yesterday. Now that I have a react-router, I am now also able to render an index/show page. My next step is to bring in and render the data from my API for the index page.
+
+### Day 6: November 28, 2020
+
+**Today's Progress**: Tried passing props to render data on index page, data is still not rendering.
+
+**Thoughts** For day 6 of 100 days of code, I took it even easier than I did on Thursday. I honestly thought I would be in the state of mind to be able to code these past few days, but Thanksgiving (and by Thanksgiving, I mean Thanksgiving food) was calling my name. After a two day hiatus, I am finally back in the game. Today, I focused on trying to render the data I entered while testing the routes I created in my backend. According to my React app, there are no mistakes, but nothing is being added to my index page and I am completely stuck here. 
+
