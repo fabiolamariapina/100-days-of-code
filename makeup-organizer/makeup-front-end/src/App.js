@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 // pages to render
 import Landing from "./components/Landing";
 import Makeup from "./components/Makeup";
+import NewForm from "./components/NewForm";
 
 const baseURL = "http://localhost:3003";
 
@@ -40,6 +41,7 @@ export default class App extends Component {
             <Route path="/makeup">
               <Makeup makeup={this.state.makeup} />
             </Route>
+            <Route path="/add-makeup" exact component={NewForm} />
           </Switch>
         </main>
         <Footer />
