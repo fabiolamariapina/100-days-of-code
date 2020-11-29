@@ -37,7 +37,9 @@ export default class App extends Component {
         <main>
           <Switch>
             <Route path="/" exact component={Landing} />
-            <Route path="/makeup" component={Makeup} />
+            <Route path="/makeup">
+              <Makeup makeup={this.state.makeup} />
+            </Route>
           </Switch>
         </main>
         <Footer />
