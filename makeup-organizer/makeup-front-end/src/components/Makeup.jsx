@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 
-export default class Index extends Component {
+export default class Makeup extends Component {
   render() {
     return (
       <main>
         <h3>Your collection</h3>
-        <div>
+        {/* <div>
           {this.props.makeup.map((makeup) => {
             return (
               <div>
@@ -13,7 +13,7 @@ export default class Index extends Component {
               </div>
             );
           })}
-        </div>
+        </div> */}
         {/* <h4>Name</h4>
         <p>insert image</p>
         <p>Edit</p>
