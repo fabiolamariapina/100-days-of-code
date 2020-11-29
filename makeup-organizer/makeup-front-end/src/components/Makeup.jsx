@@ -4,7 +4,7 @@ export default class Makeup extends Component {
   render() {
     return (
       <main>
-        <h3>Your collection</h3>
+        <h3>Your Collection</h3>
         <div>
           {this.props.makeup.map((makeup) => {
             return (
