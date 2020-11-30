@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+const baseURL = "http://localhost:3003";
+
 export default class NewForm extends Component {
   constructor() {
     super();
@@ -10,12 +12,26 @@ export default class NewForm extends Component {
       shade: "",
       tags: "",
     };
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+  handleSubmit(event) {
+    event.preventDefault();
+    fetch(baseURL + "/makeup", {
+      method: "POST",
+      body: JSON.stringify({
+        type: this.state.type,
+        name: this.state.name,
+        img: this.state.img,
+        shae: this.state.shade,
+        tags: this.state.tags,
+      }),
+    });
   }
   render() {
     return (
       <main>
         <h3>Add To Your Collection</h3>
-        <form className="new-form"></form>
+        <form onSubmit={this.handleSubmit} className="new-form"></form>
       </main>
     );
   }
