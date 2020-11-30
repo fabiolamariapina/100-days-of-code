@@ -79,6 +79,13 @@ export default class NewForm extends Component {
             value={this.state.tags}
             placeholder="Tags"
           />
+          <button
+            type="submit"
+            id="add-to-your-collection"
+            value="ADD TO YOUR COLLECTION"
+          >
+            ADD TO YOUR COLLECTION
+          </button>
         </form>
       </main>
     );
