@@ -15,6 +15,10 @@ export default class NewForm extends Component {
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
   }
+  handleChange(event) {
+    this.setState({ [event.currentTarget.id]: event.currentTarget.value });
+  }
+
   handleSubmit(event) {
     event.preventDefault();
     fetch(baseURL + "/makeup", {
@@ -23,7 +27,7 @@ export default class NewForm extends Component {
         type: this.state.type,
         name: this.state.name,
         img: this.state.img,
-        shae: this.state.shade,
+        shade: this.state.shade,
         tags: this.state.tags,
       }),
       headers: {
