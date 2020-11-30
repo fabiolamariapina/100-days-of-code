@@ -12,8 +12,13 @@ export default class NewForm extends Component {
       shade: "",
       tags: "",
     };
+    this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
   }
+  handleChange(event) {
+    this.setState({ [event.currentTarget.id]: event.currentTarget.value });
+  }
+
   handleSubmit(event) {
     event.preventDefault();
     fetch(baseURL + "/makeup", {
@@ -22,7 +27,7 @@ export default class NewForm extends Component {
         type: this.state.type,
         name: this.state.name,
         img: this.state.img,
-        shae: this.state.shade,
+        shade: this.state.shade,
         tags: this.state.tags,
       }),
       headers: {
@@ -45,7 +50,43 @@ export default class NewForm extends Component {
     return (
       <main>
         <h3>Add To Your Collection</h3>
-        <form onSubmit={this.handleSubmit} className="new-form"></form>
+        <form onSubmit={this.handleSubmit} className="new-form">
+          <input
+            type="text"
+            id="name"
+            onChange={this.handleChange}
+            value={this.state.name}
+            placeholder="Name"
+          />
+          <input
+            type="text"
+            id="img"
+            onChange={this.handleChange}
+            value={this.state.img}
+            placeholder="Image"
+          />
+          <input
+            type="text"
+            id="shade"
+            onChange={this.handleChange}
+            value={this.state.shade}
+            placeholder="Shade"
+          />
+          <input
+            type="text"
+            id="tags"
+            onChange={this.handleChange}
+            value={this.state.tags}
+            placeholder="Tags"
+          />
+          <button
+            type="submit"
+            id="add-to-your-collection"
+            value="ADD TO YOUR COLLECTION"
+          >
+            ADD TO YOUR COLLECTION
+          </button>
+        </form>
       </main>
     );
   }
