@@ -58,6 +58,27 @@ export default class NewForm extends Component {
             value={this.state.name}
             placeholder="Name"
           />
+          <input
+            type="text"
+            id="img"
+            onChange={this.handleChange}
+            value={this.state.img}
+            placeholder="Image"
+          />
+          <input
+            type="text"
+            id="shade"
+            onChange={this.handleChange}
+            value={this.state.shade}
+            placeholder="Shade"
+          />
+          <input
+            type="text"
+            id="tags"
+            onChange={this.handleChange}
+            value={this.state.tags}
+            placeholder="Tags"
+          />
         </form>
       </main>
     );
