@@ -45,7 +45,15 @@ export default class NewForm extends Component {
     return (
       <main>
         <h3>Add To Your Collection</h3>
-        <form onSubmit={this.handleSubmit} className="new-form"></form>
+        <form onSubmit={this.handleSubmit} className="new-form">
+          <input
+            type="text"
+            id="name"
+            onChange={this.handleChange}
+            value={this.state.name}
+            placeholder="Name"
+          />
+        </form>
       </main>
     );
   }
