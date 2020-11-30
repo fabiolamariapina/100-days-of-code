@@ -12,6 +12,7 @@ export default class NewForm extends Component {
       shade: "",
       tags: "",
     };
+    this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
   }
   handleSubmit(event) {
