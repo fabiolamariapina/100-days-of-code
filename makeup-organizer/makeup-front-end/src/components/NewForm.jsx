@@ -25,7 +25,21 @@ export default class NewForm extends Component {
         shae: this.state.shade,
         tags: this.state.tags,
       }),
-    });
+      headers: {
+        "Content-Type": "application/json",
+      },
+    })
+      .then((res) => res.json())
+      .then((resJson) => {
+        this.props.handleAddHoliday(resJson);
+        this.setState({
+          type: "Where does the product go?",
+          name: "",
+          img: "",
+          shade: "",
+          tags: "",
+        });
+      });
   }
   render() {
     return (
