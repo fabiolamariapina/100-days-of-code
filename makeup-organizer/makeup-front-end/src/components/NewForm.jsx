@@ -1,6 +1,16 @@
 import React, { Component } from "react";
 
 export default class NewForm extends Component {
+  constructor() {
+    super();
+    this.state = {
+      type: "Where does the product go?",
+      name: "",
+      img: "",
+      shade: "",
+      tags: "",
+    };
+  }
   render() {
     return (
       <main>
