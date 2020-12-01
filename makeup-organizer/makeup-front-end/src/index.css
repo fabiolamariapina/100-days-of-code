@@ -18,7 +18,8 @@ main {
 
 .landing-main,
 .landing-links,
-footer {
+footer,
+.new-form {
   display: flex;
 }
 
@@ -50,7 +51,8 @@ h3 {
   font-size: 48px;
 }
 
-.landing-links {
+.landing-links,
+.new-form {
   flex-direction: column;
 }
 
@@ -107,4 +109,10 @@ a {
 
 .linkedIn-link:hover {
   color: #ddaf94;
+}
+
+/* form specific styling */
+.new-form {
+  align-items: space-between;
+  max-width: 25%;
 }
