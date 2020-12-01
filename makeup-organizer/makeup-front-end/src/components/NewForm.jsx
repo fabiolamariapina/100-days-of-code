@@ -51,44 +51,46 @@ export default class NewForm extends Component {
     return (
       <main>
         <h3>Add To Your Collection</h3>
-        <form onSubmit={this.handleSubmit} className="new-form">
-          <DropDown />
-          <input
-            type="text"
-            id="name"
-            onChange={this.handleChange}
-            value={this.state.name}
-            placeholder="Name"
-          />
-          <input
-            type="text"
-            id="img"
-            onChange={this.handleChange}
-            value={this.state.img}
-            placeholder="Image"
-          />
-          <input
-            type="text"
-            id="shade"
-            onChange={this.handleChange}
-            value={this.state.shade}
-            placeholder="Shade"
-          />
-          <input
-            type="text"
-            id="tags"
-            onChange={this.handleChange}
-            value={this.state.tags}
-            placeholder="Tags"
-          />
-          <button
-            type="submit"
-            id="add-to-your-collection"
-            value="ADD TO YOUR COLLECTION"
-          >
-            ADD TO YOUR COLLECTION
-          </button>
-        </form>
+        <div className="new-form">
+          <form onSubmit={this.handleSubmit}>
+            <DropDown />
+            <input
+              type="text"
+              id="name"
+              onChange={this.handleChange}
+              value={this.state.name}
+              placeholder="Name"
+            />
+            <input
+              type="text"
+              id="img"
+              onChange={this.handleChange}
+              value={this.state.img}
+              placeholder="Image"
+            />
+            <input
+              type="text"
+              id="shade"
+              onChange={this.handleChange}
+              value={this.state.shade}
+              placeholder="Shade"
+            />
+            <input
+              type="text"
+              id="tags"
+              onChange={this.handleChange}
+              value={this.state.tags}
+              placeholder="Tags"
+            />
+            <button
+              type="submit"
+              id="add-to-your-collection"
+              value="ADD TO YOUR COLLECTION"
+            >
+              ADD TO YOUR COLLECTION
+            </button>
+          </form>
+        </div>
       </main>
     );
   }
