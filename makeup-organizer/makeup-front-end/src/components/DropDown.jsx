@@ -6,16 +6,25 @@ export default class DropDown extends Component {
     this.state = {
       showMenu: false,
     };
+    this.showMenu = this.showMenu.bind(this);
+  }
+  showMenu(event) {
+    event.preventDefault();
+    this.setState({
+      showMenu: true,
+    });
   }
   render() {
     return (
       <div className="where-does-product-gp">
-        <button>Where does the product go?</button>
+        <button className="drop-down-button" onClick={this.showMenu}>
+          Where does the product go?
+        </button>
         {this.state.showMenu ? (
           <div className="drop-down-menu">
-            <button>Eyes</button>
-            <button>Lips</button>
-            <button>Face</button>
+            <button className="eyes">Eyes</button>
+            <button className="lips">Lips</button>
+            <button className="face">Face</button>
           </div>
         ) : null}
       </div>
