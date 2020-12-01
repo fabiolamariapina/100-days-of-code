@@ -14,12 +14,13 @@ body {
 main {
   background-color: #e8cebf;
   color: #fdf8f5;
+  max-height: 100%;
 }
 
 .landing-main,
 .landing-links,
-footer,
-.new-form {
+.new-form,
+footer {
   display: flex;
 }
 
@@ -29,6 +30,7 @@ footer,
 
 .welcome,
 .new-user,
+.new-form,
 footer {
   position: relative;
 }
@@ -51,8 +53,7 @@ h3 {
   font-size: 48px;
 }
 
-.landing-links,
-.new-form {
+.landing-links {
   flex-direction: column;
 }
 
@@ -66,7 +67,12 @@ h3 {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.log-in {
+.log-in,
+#add-to-your-collection,
+.drop-down-button,
+.eyes,
+.lips,
+.face {
   background-color: #ddaf94;
   border: 1px solid #ddaf94;
   color: #fdf8f5;
@@ -113,6 +119,17 @@ a {
 
 /* form specific styling */
 .new-form {
-  align-items: space-between;
-  max-width: 25%;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  bottom: 25px;
+}
+
+input,
+#add-to-your-collection,
+.drop-down-button,
+.eyes,
+.lips,
+.face {
+  border-radius: 15px;
 }

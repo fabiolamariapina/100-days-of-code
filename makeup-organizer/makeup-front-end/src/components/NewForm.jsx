@@ -51,8 +51,8 @@ export default class NewForm extends Component {
     return (
       <main>
         <h3>Add To Your Collection</h3>
-        <div className="new-form">
-          <form onSubmit={this.handleSubmit}>
+        <div>
+          <form onSubmit={this.handleSubmit} className="new-form">
             <DropDown />
             <input
               type="text"
