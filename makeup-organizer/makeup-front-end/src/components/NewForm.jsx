@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import DropDown from "./DropDown";
 
 const baseURL = "http://localhost:3003";
 
@@ -51,6 +52,7 @@ export default class NewForm extends Component {
       <main>
         <h3>Add To Your Collection</h3>
         <form onSubmit={this.handleSubmit} className="new-form">
+          <DropDown />
           <input
             type="text"
             id="name"
