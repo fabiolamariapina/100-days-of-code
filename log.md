@@ -66,3 +66,14 @@
 **Today's Progress**: Centered my new form and styled butttons and inputs, began reviewing data structure on freecodecamp.com
 
 **Thoughts** For day 9 of 100 days of code, I decided on a new system. For the first half of my coding time, I will dedicate it to working on my portfolio and its projects. The second half will be preparing for technical interviews. Today, the first half of my coding time today consisted of me styling my new form page. I was finally able to center the form in the way I wanted, but the spacing is still not there. This problem is why I sometimes hate flexbox. I could be styling exactly the way the tutorials tell me but nothing happens. I also styled my buttons and inputs by adding a border-radius to give them a rounded appearance and changing the color of my buttons to be exactly like those on the landing page. For the second half of my coding time, I went back and reviewed the JavaScript basics on free code camp. Since technical interviews focus on data structures and algorithms, I began my interview preparation by beginning the Introduction to the Basic Data Structure Challenges, which can be found here (https://lnkd.in/gZN6FY9). I want to master the basics to succeed in technical interviews.
+
+### Day 10: December 2, 2020
+
+**Today's Progress**: Began the Learn JavaScript course on Code Academy, completed up to lesson 3 of module 2, conditionals.
+
+**Thoughts** For day 10 of 100 days of code, I decided to take a break from my makeup organizer app since I've been stuck and frustrated with it. I plan on returning to it within the next few days. I will be using my coding time in the next few days to really master the basics of JavaScript. My purpose in doing so is to have the skills needed to succeed in a technical interview. I also want to use this time to practice talking through my practice problems as if it were a technical interview. Today, I made it through lesson 1 and began lesson 2 of Code Academy's Learn JavaScript course. While doing this course, I rembered things I have forgotten throughout my coding journey, such as reassigning let variables and that when let variables are not initialized, they will return as undefined. 
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+   )
