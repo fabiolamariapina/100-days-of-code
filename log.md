@@ -76,4 +76,13 @@
 **Link to work**
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-   )
+
+### Day 11: December 3, 2020
+
+**Today's Progress**: Finished conditionals module of Learn JavaScript on Code Academy, began functions module
+
+**Thoughts** For day 11 of 100 days of code, I continued the Learn JavaScript course on Code Academy.  I finished the conditionals module and learned a lot of concepts that I have touched on only briefly during my coding journey. They are truthy and falsy, switch statements, ternary operators, and short circuit evaluation. Since these seem to be the current JS best practices, my goal is to further my understanding of these concepts and use them when I code. I also began the functions module I learned in JavaScript. I learned nothing new, but it was nice to review functions in a way that has not been explained to me to deepen my understanding. 
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
