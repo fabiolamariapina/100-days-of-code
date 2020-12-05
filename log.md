@@ -71,7 +71,7 @@
 
 **Today's Progress**: Began the Learn JavaScript course on Code Academy, completed up to lesson 3 of module 2, conditionals.
 
-**Thoughts** For day 10 of 100 days of code, I decided to take a break from my makeup organizer app since I've been stuck and frustrated with it. I plan on returning to it within the next few days. I will be using my coding time in the next few days to really master the basics of JavaScript. My purpose in doing so is to have the skills needed to succeed in a technical interview. I also want to use this time to practice talking through my practice problems as if it were a technical interview. Today, I made it through lesson 1 and began lesson 2 of Code Academy's Learn JavaScript course. While doing this course, I rembered things I have forgotten throughout my coding journey, such as reassigning let variables and that when let variables are not initialized, they will return as undefined. 
+**Thoughts** For day 10 of 100 days of code, I decided to take a break from my makeup organizer app since I've been stuck and frustrated with it. I plan on returning to it within the next few days. I will be using my coding time in the next few days to really master the basics of JavaScript. My purpose in doing so is to have the skills needed to succeed in a technical interview. I also want to use this time to practice talking through my practice problems as if it were a technical interview. Today, I made it through lesson 1 and began lesson 2 of Code Academy's Learn JavaScript course. While doing this course, I rembered things I have forgotten throughout my coding journey, such as reassigning let variables and that when let variables are not initialized, they will return as undefined.
 
 **Link to work**
 
@@ -81,8 +81,19 @@
 
 **Today's Progress**: Finished conditionals module of Learn JavaScript on Code Academy, began functions module
 
-**Thoughts** For day 11 of 100 days of code, I continued the Learn JavaScript course on Code Academy.  I finished the conditionals module and learned a lot of concepts that I have touched on only briefly during my coding journey. They are truthy and falsy, switch statements, ternary operators, and short circuit evaluation. Since these seem to be the current JS best practices, my goal is to further my understanding of these concepts and use them when I code. I also began the functions module I learned in JavaScript. I learned nothing new, but it was nice to review functions in a way that has not been explained to me to deepen my understanding. 
+**Thoughts** For day 11 of 100 days of code, I continued the Learn JavaScript course on Code Academy. I finished the conditionals module and learned a lot of concepts that I have touched on only briefly during my coding journey. They are truthy and falsy, switch statements, ternary operators, and short circuit evaluation. Since these seem to be the current JS best practices, my goal is to further my understanding of these concepts and use them when I code. I also began the functions module I learned in JavaScript. I learned nothing new, but it was nice to review functions in a way that has not been explained to me to deepen my understanding.
 
 **Link to work**
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+### Day 12: December 4, 2020
+
+**Today's Progress**: Finished functioms module of Learn JavaScript on Code Academy, began scope module, began The Modern Python 3 Bootcamp on Udemy
+
+**Thoughts** For day 12 of 100 days of code, I finished the functions module of Learn JavaScript on Code Academy. There were ways of doing functions that I have done before and some I have not, like anonymous functions, function expressions, and concise body arrow functions. I also deepened my understanding of helper functions to the point where I think I am comfortable using them. Once I finished this module, I completed the first two, albeit basic, lessons of the scope module. I have learned about scope before and understood it, but focusing on completing a lesson on just code blocks helped me understand scope better. After focusing on JavaScript, I switched to another language I began learning this week in my bootcamp. This whole week, I have been struggling with Python, so I decided to sign-up for the self-paced Modern Python 3 Bootcamp on Udemy. I did not code much, except for the first coding exercise where I had to print my name.
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
