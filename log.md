@@ -97,3 +97,24 @@
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+
+### Day 13: December 8, 2020
+
+**Today's Progress**: Finished scope module of Learn JavaScript on Code Academy, began arrays module, continued The Modern Python 3 Bootcamp on Udemy
+
+**Thoughts** Since I am currently recovering from COVID, I am only doing the bare minimum in terms of coding and logging it.
+
+Concepts reviewed in Learn JavaScript:
+
+- Scope- Global scope, block scope, scope pollution
+
+- Arrays- creating an array, accessing elements in an array, changing an element in an array
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- Numbers, Operators, and Comments
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
