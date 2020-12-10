@@ -118,3 +118,22 @@ Concepts reviewed in The Modern Python 3 Bootcamp:
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+
+### Day 14: December 9, 2020
+
+**Today's Progress**: Finished arrays module on CodeAcademy, continued The Modern Python 3 Bootcamp on Udemy
+
+**Thoughts** I am still recovering from COVID and the fatigue hit hard today, but I am proud of myself for coding.
+
+Concepts reviewed in Learn JavaScript:
+
+- Arrays- arrays with let and const, the .length property, the .push() method, the .pop() method, the .shift() method, the .unshift() method, the .slice() method, the indexOf() method, arrays and functions, nested arrays
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- Variables and Strings
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
