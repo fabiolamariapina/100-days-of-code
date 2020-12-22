@@ -137,3 +137,32 @@ Concepts reviewed in The Modern Python 3 Bootcamp:
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+
+### Day 15: December 22, 2020
+
+**Today's Progress**: Finished arrays module on CodeAcademy, continued The Modern Python 3 Bootcamp on Udemy
+
+**Thoughts** Now that I have fully recovered from COVID and finished General Assembly's software engineering immersive, it's time for me to return to 100 days of code. I know there was a long break, but now I am back and better than ever. I also began two new courses on Udemy: Master the Coding Interview: Data Structures + Algorithms and The Complete Sass & SCSS Course.
+
+Concepts reviewed in Learn JavaScript:
+
+- Loops: The For Loop, Looping in Reverse, Looping Through Arrays, Nested Loops, Nested Loops
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- Special Value None, Double vs. Single Quotes, String Escape Sequences, String Concatination
+
+Concepts Reviewed in Master The Coding Interview:
+
+- Introduction to Big O, What is good code?
+
+Concepts Reviewed in the Complete Sass & SCSS Course:
+
+- Sass Overview: What is a preprocessor?, Sass vs. SCSS
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4. [The Complete Sass & SCSS Course](https://www.udemy.com/course/sasscourse/)
