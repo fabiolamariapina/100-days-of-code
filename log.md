@@ -166,3 +166,30 @@ Concepts Reviewed in the Complete Sass & SCSS Course:
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 4. [The Complete Sass & SCSS Course](https://www.udemy.com/course/sasscourse/)
+
+### Day 16: December 23, 2020
+
+**Thoughts** For day 16 of 100 days of code, I continued with my Learn JavaScript, The Modern Python 3 Bootcamp, and Master the Coding Interview Courses. I also began the Understanding TypeScript-2021 Edition on Udemy (in case you have not realized, I am a Udemy stan). Based on what little TypeScript I have encountered, I am already a big fan of it because of how clear it is. 
+
+Concepts reviewed in Learn JavaScript:
+
+- Loops: Nested Loops, The While Loop, Do...While Statements, The Break Keyword, Introduction to Higher Order Functions, Functions as Data
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- String Formatting (F-Strings, .format()), Strings and Indexes, Converting Data Types, began Mileage Converter Code Along
+
+Concepts Reviewed in Master The Coding Interview:
+
+- What is good code?, Big O & Scalability
+
+Concepts Reviewed in Understanding TypeScript:
+
+- What is TypeScript & Why Should You Use It?, Installing & Using TypeScript
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4. [Understanding TypeScript-2021 Edition](https://www.udemy.com/course/understanding-typescript/)
