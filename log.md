@@ -169,7 +169,7 @@ Concepts Reviewed in the Complete Sass & SCSS Course:
 
 ### Day 16: December 23, 2020
 
-**Thoughts** For day 16 of 100 days of code, I continued with my Learn JavaScript, The Modern Python 3 Bootcamp, and Master the Coding Interview Courses. I also began the Understanding TypeScript-2021 Edition on Udemy (in case you have not realized, I am a Udemy stan). Based on what little TypeScript I have encountered, I am already a big fan of it because of how clear it is. 
+**Thoughts** For day 16 of 100 days of code, I continued with my Learn JavaScript, The Modern Python 3 Bootcamp, and Master the Coding Interview Courses. I also began the Understanding TypeScript-2021 Edition on Udemy (in case you have not realized, I am a Udemy stan). Based on what little TypeScript I have encountered, I am already a big fan of it because of how clear it is.
 
 Concepts reviewed in Learn JavaScript:
 
@@ -193,3 +193,33 @@ Concepts Reviewed in Understanding TypeScript:
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 4. [Understanding TypeScript-2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+
+### Day 17: December 28, 2020
+
+**Thoughts**
+Concepts reviewed in Learn JavaScript:
+
+- Higher-Order Functions: Introduction, Functions as Data (still don't understand this concept), Functions as Parameters
+
+- I still do not fully understand higher-order functions in JavaScript. I definitely need to set aside extra time to study them more and understand them.
+
+- Iterators: Introduction to Iterators, The .forEach() Method
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- Mileage Converter Code Along with User Input, Introduction to Boolean and Conditional Logic, Getting User Input, User Input Code Along
+
+Concepts Reviewed in Master The Coding Interview:
+
+- Big O & Scalability, O(n) --> one Big O notation that states that the big O (the number of operations) depends on n (the number of inputs) and is a linear/proportional relationship, O(1) --> constant time because the program is always doing one thing (since n is always equal to 1, 1 element means 1 operation), as the n increases (let's say O(2) OR O(3)), the time will still be constant because the number of operations run will equal to n (which in my examples are 2 and 3), began Big O Exercise 1
+
+Concepts Reviewed in Clean Code (Udemy course which I began today):
+
+- Welcome to the Course!, What is "Clean Code"?
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4. [Clean Code](https://www.udemy.com/course/writing-clean-code/)
