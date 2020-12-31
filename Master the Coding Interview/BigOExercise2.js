@@ -35,4 +35,6 @@ function anotherFunChallenge(input) {
   let whoAmI = "I don't know"; // O(1)
 }
 
-//BIG O(4 + 5n) --> IT'S LIT I HAD A VALID SOLUTION!!!
+// BIG O(4 + 5n) --> IT'S LIT I HAD A VALID SOLUTION!!!
+// in an actual coding interview, I would simplify my answer to this:
+// BIG O(n), since only the answers on the complexity chart should be used

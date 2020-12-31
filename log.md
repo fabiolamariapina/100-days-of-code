@@ -223,3 +223,29 @@ Concepts Reviewed in Clean Code (Udemy course which I began today):
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 4. [Clean Code](https://www.udemy.com/course/writing-clean-code/)
+
+### Day 18: December 30, 2020
+
+**Thoughts**
+Concepts reviewed in Learn JavaScript:
+
+- Iterators: The .forEach() Method, The .map() Method, The .filter() Method, The .findIndex() Method, The .reduce() Method
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- Intro to Conditionals, Coding Exercise 8: Lucky Number 7, Coding Exercise 9: Number is Odd, Multiple Elifs, A Word on Truthiness + A Quick Example
+
+Concepts Reviewed in Master The Coding Interview:
+
+- Solution: Big O Calculation/Big O Exercise 1, Big O Exercise 2, Simplifying Big O, Big O Rule 1: Worst Case (when calculating big O, we think about the worst case scenario, never assume things will go well)
+
+Concepts Reviewed in React with Redux, React-Router, Hooks, and Auth0 (Udemy course which I began today):
+
+- Course Promo, Course Intro, Getting Started with Create React App
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4. [eact with Redux, React-Router, Hooks, and Auth0](https://www.udemy.com/course/modern-react/)
