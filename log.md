@@ -249,3 +249,23 @@ Concepts Reviewed in React with Redux, React-Router, Hooks, and Auth0 (Udemy cou
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 3. [Master the Coding Interview] (https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 4. [eact with Redux, React-Router, Hooks, and Auth0](https://www.udemy.com/course/modern-react/)
+
+### Day 19: January 4, 2021
+
+**Thoughts**
+I am now fully immersed in job searching, and that combined with the holidays has made me feel burned out and not wanting to do much. Today, I did the bare minimum and tomorrow I will push myself a little more. 
+
+Concepts reviewed in Learn JavaScript:
+
+- Iterators: Iterator Documentation, Choose the Right Iterator
+- Object: Introduction to Objects, Creating Object Literals, Accessing Properties, Bracket Notation
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- A Word on Truthiness + a Quick Example, The Joy of Comparison Operators, Logical AND & OR, Food Classifying Exercise, Logical NOT
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+
