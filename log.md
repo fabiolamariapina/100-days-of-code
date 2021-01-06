@@ -268,3 +268,18 @@ Concepts reviewed in The Modern Python 3 Bootcamp:
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+
+### Day 20: January 5, 2021
+
+**Thoughts**
+Concepts reviewed in Learn JavaScript:
+- Objects: Property Assignment, Methods 
+
+Concepts reviewed in Master the Coding Interview:
+
+- Big O Rule 1 Review, Big O Rule 2 (Remove Constants), Big O Rule 3 (Different inputs should have different variables), O (n^2)- quadratic time, used for nested loops, it's horrible per Complexity Chart, Big O Rule 4 (drop non dominants)
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
