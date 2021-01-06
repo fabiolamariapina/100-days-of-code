@@ -6,7 +6,6 @@ const makeupSchema = new mongoose.Schema({
   img: String,
   shade: String,
   tags: String,
-  buyMore: Boolean,
 });
 
 module.exports = mongoose.model("Makeup", makeupSchema);
