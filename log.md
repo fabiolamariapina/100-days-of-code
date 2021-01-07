@@ -273,11 +273,38 @@ Concepts reviewed in The Modern Python 3 Bootcamp:
 
 **Thoughts**
 Concepts reviewed in Learn JavaScript:
-- Objects: Property Assignment, Methods 
+
+- Objects: Property Assignment, Methods
 
 Concepts reviewed in Master the Coding Interview:
 
 - Big O Rule 1 Review, Big O Rule 2 (Remove Constants), Big O Rule 3 (Different inputs should have different variables), O (n^2)- quadratic time, used for nested loops, it's horrible per Complexity Chart, Big O Rule 4 (drop non dominants)
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+3. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+### Day 21: January 6, 2021
+
+**Thoughts**
+Makeup Organizer:
+
+- deleted all what I had of my front-end and decided to start over to make it almost exactly the same as skincare routine, in retrospect it was not the best idea but what is done is done, also installed bootstrap for easier form and button styling
+
+Concepts reviewed in Learn JavaScript:
+
+- Objects: Methods, Nested Objects, Pass By Reference, Looping Through Objects
+- Advanced Objects: Introduction, The this keyword
+
+Concepts Reviewed in The Modern Python 3 Bootcamp:
+
+- Logical Not, Quiz 11: Boolean Logic Principles, A Note on Is vs. ==, Bouncer Code-Along and Nested Conditionals
+
+Concepts reviewed in Master the Coding Interview:
+
+- Big O Rule 4 (Drop Non Dominants), Big O Cheat Sheet, What does it all mean?, O(n!), (factorial time, adding a loop for every element you'r iterating over), 3 Pillars of Programming (Readable, Speed- time complexity, Memory- space complexity)
 
 **Link to work**
 
