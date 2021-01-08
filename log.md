@@ -332,3 +332,15 @@ Concept reviewed in Understanding TypeScript- 2021 Edition:
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 3. [Understanding TypeScript-2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+
+### Day 22: January 7, 2021
+
+**Thoughts**
+Concepts reviewed in Learn JavaScript:
+
+- Advanced Objects: Factory Functions, Property Value Shorthand, Destructured Asignment, Built-in Object Methods: Object.assign(object)- returns a new array with the object keys of the object in the paramater, Object.entries(object)- returns an array of the key value pairs of the object in the parameter, Object.assign(what we want to add, source)- creates a new object from the source object, with new key-value pair(s) of the first parameter
+- Classes- Introduction to Classes
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
