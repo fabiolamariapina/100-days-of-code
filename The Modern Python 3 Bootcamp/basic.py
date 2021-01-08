@@ -10,5 +10,7 @@ if player1 and player2:
         print("PLAYER 1 WINS")
     elif player1 == "scissors" and player2 == "rock":
         print("PLAYER 2 WINS!")
+    elif player1 == "scissors" and player2 == "paper":
+        print("PLAYER 1 WINS")
 else:
     print("Please enter rock, paper, or scissors!")
