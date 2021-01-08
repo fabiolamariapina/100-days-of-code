@@ -310,3 +310,25 @@ Concepts reviewed in Master the Coding Interview:
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 2. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+### Day 22: January 7, 2021
+
+**Thoughts**
+Concepts reviewed in Learn JavaScript:
+
+- Advanced Objects: Arrow Functions and this, Privacy, Getters, Setters, Factory Functions
+
+Concepts Reviewed in The Modern Python 3 Bootcamp:
+
+- Bouncer Code Along and Nested Conditionals (cont.), Quiz 12: Boolean and Conditional Logic in Python, Positive or Negative Checking, Calling in Sick, began Rock, Paper, Scissors basic project, can't seem to add only two equal signs (you may take the girl away from JavaScript but you cannot take JavaScript away from the girl)
+
+Concept reviewed in Understanding TypeScript- 2021 Edition:
+
+- TypeScript Advantages- Overview
+- TypeScript Basics & Basic Types: Module Introduction, Using Types (core types- number, string, boolean), began using types code along
+
+**Link to work**
+
+1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+3. [Understanding TypeScript-2021 Edition](https://www.udemy.com/course/understanding-typescript/)
