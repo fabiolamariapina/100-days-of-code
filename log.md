@@ -341,6 +341,10 @@ Concepts reviewed in Learn JavaScript:
 - Advanced Objects: Factory Functions, Property Value Shorthand, Destructured Asignment, Built-in Object Methods: Object.assign(object)- returns a new array with the object keys of the object in the paramater, Object.entries(object)- returns an array of the key value pairs of the object in the parameter, Object.assign(what we want to add, source)- creates a new object from the source object, with new key-value pair(s) of the first parameter
 - Classes- Introduction to Classes
 
+Concepts Reviewed in Master the Coding Interview:
+
+- Space Complexity, Exercise: Space Complexity, Exercise: Twitter, JavaScript Loops
+
 **Link to work**
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
