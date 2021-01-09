@@ -1,8 +1,5 @@
-player1 = input("Player 1, make your move: ")
-player2 = input("Player 2, make your move: ")
-
-player1 = player1.lower()
-player2 = player2.lower()
+player1 = input("Player 1, make your move: ").lower()
+player2 = input("Player 2, make your move: ").lower()
 
 if player1 and player2:
     if (player1 == "rock" and player2 == "scissors") or (player1 == "scissors" and player2 == "paper") or (player1 == "paper" and player2 == "rock"):
