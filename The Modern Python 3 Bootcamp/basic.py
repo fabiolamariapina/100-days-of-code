@@ -11,8 +11,12 @@ if player1 and player2:
     elif player1 == "scissors" and player2 == "rock":
         print("PLAYER 2 WINS!")
     elif player1 == "scissors" and player2 == "paper":
-        print("PLAYER 1 WINS")
+        print("PLAYER 1 WINS!")
     elif player1 == "paper" and player2 == "scissors":
-        print("PLAYER 2 WINS")
+        print("PLAYER 2 WINS!")
+    elif player1 == "paper" and player2 == "rock":
+        print("PLAYER 1 WINS!")
+    elif player1 == "rock" and player2 == "paper":
+        print("PLAYER 2 WINS!")
 else:
     print("Please enter rock, paper, or scissors!")
