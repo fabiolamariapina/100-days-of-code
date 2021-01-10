@@ -333,7 +333,7 @@ Concept reviewed in Understanding TypeScript- 2021 Edition:
 2. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 3. [Understanding TypeScript-2021 Edition](https://www.udemy.com/course/understanding-typescript/)
 
-### Day 22: January 7, 2021
+### Day 22: January 8, 2021
 
 **Thoughts**
 Concepts reviewed in Learn JavaScript:
@@ -350,3 +350,35 @@ Concepts Reviewed in Master the Coding Interview:
 
 1. [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 2. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+### Day 23: January 9, 2021
+
+**Thoughts**
+Day 23 of #100daysofcode:
+
+Concepts reviewed in The Modern Python 3 Bootcamp:
+
+- finished RPS Mini Project: Basic Version
+
+- Looping in Python: Section Introduction began the basics of for loops
+
+Concepts Reviewed in Master the Coding Interview:
+
+- finish JavaScript loops, Big O Section Summary (allows us to see how scalable the code is, space complexity, time complexity)
+
+- How to Solve Coding Problems: Section Overview, What are companies looking for (Analytic Skills, Coding Skills, Technical Skill, Communication Skills), What we need for coding interviews
+
+Concepts reviewed in Vue.js Fast Crash Course:
+
+- Introduction, Downloaded Reference Files, What is Vue.js, Creating our First Vue App (downloaded Vue, coded along with creating a basic app, Vue seems very simple and straightforward so far), String Interpolation
+
+Concept Reviewed in Understanding TypeScript:
+
+- Reviewed Core Type (number- all numbers and no difference between integers and floats, string-all text values, boolean- just true or false), set up starting project, JavaScript Types vs. TypeScript Types (JavaScript uses dynamic types (resolved at runtime), TypeScript uses "static types" (set during development))
+
+**Link to work**
+
+1. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+2. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+3. [Vue.js Fast Crash Course](https://www.udemy.com/course/vuejs-fast-crash-course/)
+4. [Understanding TypeScript- 2021 Edition](https://www.udemy.com/course/understanding-typescript/)

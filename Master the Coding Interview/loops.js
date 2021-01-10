@@ -16,4 +16,13 @@ const findNemo = (array) => {
 
 findNemo(Nemo);
 
-// FOR OF LOOP
+// FOR OF LOOP EXAMPLE
+const findNemo2 = (array) => {
+  for (let i of array) {
+    if (i === "Nemo") {
+      console.log("Found Nemo!");
+    }
+  }
+};
+
+findNemo2(Nemo);

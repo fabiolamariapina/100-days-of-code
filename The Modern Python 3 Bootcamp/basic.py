@@ -12,3 +12,5 @@ if player1 and player2:
         print("SAY WHAT??")
 else:
     print("Please enter rock, paper, or scissors!")
+
+# I would say it's pretty close to the solution presented
