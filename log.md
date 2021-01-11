@@ -382,3 +382,23 @@ Concept Reviewed in Understanding TypeScript:
 2. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 3. [Vue.js Fast Crash Course](https://www.udemy.com/course/vuejs-fast-crash-course/)
 4. [Understanding TypeScript- 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+
+### Day 24: January 9, 2021
+
+**Thoughts**
+Concepts Reviewed in Master the Coding Interview:
+- Exercise: Google Interview (analyzed a Googel Interview to see how they followed the 15 steps of working through a technical interview problem)
+
+Concepts Reviewed in React with Redux, React-Router, Hooks, and Auth0:
+- Getting started with create-react-app, JSX Overview, Displaying Variables in JSX, Understanding Class and Function Scopes, How Extends Component Works, Styling Patterns in React (One in particualr stood out to me, where I add the styling in an object right in the component file. This will definitely help me as I create more complex apps and am better able to keep track of my styling.)
+
+Concepts Reviewed in The Complete Sass & SCSS Course:
+- I was not able to review much seeing as I spent about an hour trying to install Sass because I kept getting errors with the command line. I ended up installing Scout, an app that lets you use Sass without the command line. If anyone can help me with installing Sass on the command line, I'm all ears. After installing Scout, I coded along to the next lesson and exposed myself to my first lines of SCSS code. I thought Scout would be easy to use based on the video I saw, but it's not. This whole experience has made me not a big fan of Sass/SCSS so far. Why is it so difficult to install? 
+
+Concepts Reviewed in Clean Code:
+- Reviwed what is clean code, Key Pain Points (Names, Structure and Comments, Functions, Conditionals and Error Handling, Classes and Data Structures), Clean Code and Patterns & Principles, Clean Code vs Clean Architecture, Clean code is written over time
+
+1. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+2. [React with Redux, Hooks, React Router, and Auth0](https://www.udemy.com/course/modern-react/)
+3. [Complete Sass & SCSS Course](https://www.udemy.com/course/sasscourse/)
+4. [Clean Code](https://www.udemy.com/course/sasscourse/)
