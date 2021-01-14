@@ -416,3 +416,25 @@ Concepts reviewed in Learn JavaScript:
 - Classes- Introduction to classes, Constructor, Instance, Methods, Method Calls, Inheritance I, began Inheritance II
 
 - Overall, this was a very good day of learning JavaScript for me. It was helpful in letting me understand React on a deeper level.
+
+### Day 26: January 12, 2021
+
+**Thoughts**
+Today, I decided to focus solely on Mastering the Coding Interview. With the job search in full swing, I need to brush up on both my behavioral and technical interview skills. I learned a lot about how a computer itslef functions and how that affects how good the code I write is. As I was reviewing arrays and their methods, i began applying big O notation to the methods and it helped me further understand big O.
+
+Concepts reviewed in Master The Coding Interview:
+
+- Link: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
+
+- Introduction to data structures: Section Overview (Data Structures vs Algorithms- a data structure is a collection of values, algorithms- the steps/processes we write to manipulate data structure, data structure + algortithms = programs), What is a data structure (a collection of values that have relationships among them and functions applied to them, each data structure is good and is specialized for it's own thing), How computers store data, Data structures in different languages (arrays, stakcs, queues, linked lists, trees, tries, graphs, hash tables), Operations on Data Strcutures
+
+- Arrays: Introduction, Static vs Dynamic Arrays (Static Arrays are fixed in size)
+
+### Day 27: January 13, 2021
+
+**Thoughts**
+Concepts reviewed in Master The Coding Interview:
+
+- Link: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
+
+- Arrays: Reviewed static vs dynamic arrays, Classes in JavaScript, Implementing an Array, String & Arrays, Exercise: Reverse a String
