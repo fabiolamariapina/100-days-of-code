@@ -443,3 +443,13 @@ Concepts reviewed in Master The Coding Interview:
 
 **Thoughts**
 For day 28 of 100 days of code, I went back to working on my apps, specifically Makeup Organizer. I realized I was focusing too much on learning new skills and neglecting the projects I want to perfect. I created my footer component and tried out styled-components. Styled components were a little tricky for me, but this article helped me fully understand them: https://www.edwardbeazer.com/how-to-add-hover-events-to-any-react-component/. I can honestly say that styled-components make my life so much easier and I am never going back to doing all my styling in a separate CSS file. My code is much cleaner and I can actually read it this time around.
+
+### Day 29: January 15, 2021
+
+**Thoughts**
+Courses I focused on today:
+
+- GraphQL- A Primer
+  - A basic overview of GraphQL, a technology similar to REST that specifies how clients react with servers. Many frontend engineer and developer roles require this skill, which is why I decided to start learning it. GraphQL operations follows a CRUD like structure: queries are responsible for retrieving and mutations, where the existing schema is changes, are responsible for creeating, updating, and deleting. REST and GraphQL both support different HTTP methods usch as GET and POST. GrapphQL, unlike REST, is not resource based, but schema based. Every operation is fully described in a schema file. GraphQL is best used for multiple clients who ask for different subsets of data.
+- Webpack 5 Fundamentals
+  - I set up and installed Webpack 5. Webpack is another skill I keep seeing in job descriptions so I decided to take this course to learn more about it.
