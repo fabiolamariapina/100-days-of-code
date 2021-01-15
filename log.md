@@ -438,3 +438,8 @@ Concepts reviewed in Master The Coding Interview:
 - Link: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
 
 - Arrays: Reviewed static vs dynamic arrays, Classes in JavaScript, Implementing an Array, String & Arrays, Exercise: Reverse a String
+
+### Day 28: January 14, 2021
+
+**Thoughts**
+For day 28 of 100 days of code, I went back to working on my apps, specifically Makeup Organizer. I realized I was focusing too much on learning new skills and neglecting the projects I want to perfect. I created my footer component and tried out styled-components. Styled components were a little tricky for me, but this article helped me fully understand them: https://www.edwardbeazer.com/how-to-add-hover-events-to-any-react-component/. I can honestly say that styled-components make my life so much easier and I am never going back to doing all my styling in a separate CSS file. My code is much cleaner and I can actually read it this time around.
