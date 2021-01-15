@@ -3,10 +3,10 @@ import styled from "styled-components";
 
 export default class Footer extends Component {
   render() {
-    const footer = {
-      display: "flex",
-      justifyContent: "space-between",
-    };
+    const Footer = styled.footer`
+      display: flex;
+      justify-content: space-between;
+    `;
     const footerSpiel = {
       fontStyle: "italic",
     };
@@ -23,7 +23,7 @@ export default class Footer extends Component {
       }
     `;
     return (
-      <footer id="footer" style={footer}>
+      <Footer id="footer">
         <p className="trademark" style={footerSpiel}>
           2020 © All Right Reserved
         </p>
@@ -38,7 +38,7 @@ export default class Footer extends Component {
             Fabiola Pina
           </HoverLink>
         </p>
-      </footer>
+      </Footer>
     );
   }
 }
