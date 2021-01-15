@@ -7,3 +7,13 @@ body {
   background-color: #fdf8f5;
   color: #4f4846;
 }
+
+main {
+  background-color: #e8cebf;
+  color: #fdf8f5;
+}
+
+/* footer */
+.linkedIn-link:hover {
+  color: #ddaf94;
+}
