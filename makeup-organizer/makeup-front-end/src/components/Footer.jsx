@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import styled from "styled-components";
 
 export default class Footer extends Component {
   render() {
@@ -9,10 +10,18 @@ export default class Footer extends Component {
     const footerSpiel = {
       fontStyle: "italic",
     };
-    const link = {
-      textDecoration: "none",
-      color: "#4f4846",
-    };
+    // const link = {
+    //   textDecoration: "none",
+    //   color: "#4f4846",
+    // };
+    const HoverLink = styled.a`
+      color: #4f4846;
+      text-decoration: none;
+      :hover {
+        color: #ddaf94;
+        cursor: pointer;
+      }
+    `;
     return (
       <footer id="footer" style={footer}>
         <p className="trademark" style={footerSpiel}>
@@ -20,14 +29,14 @@ export default class Footer extends Component {
         </p>
         <p className="credit" style={footerSpiel}>
           Coded by{" "}
-          <a
-            style={link}
+          <HoverLink
+            // style={link}
             className="linkedIn-link"
             href="https://www.linkedin.com/in/fabiolampina/"
             target="_blank"
           >
             Fabiola Pina
-          </a>
+          </HoverLink>
         </p>
       </footer>
     );

@@ -12,3 +12,8 @@ main {
   background-color: #e8cebf;
   color: #fdf8f5;
 }
+
+/* footer */
+.linkedIn-link:hover {
+  color: #ddaf94;
+}
