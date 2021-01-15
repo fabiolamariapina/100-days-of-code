@@ -26,7 +26,6 @@ export default class Footer extends Component {
         <FooterSpiel className="credit">
           Coded by{" "}
           <HoverLink
-            // style={link}
             className="linkedIn-link"
             href="https://www.linkedin.com/in/fabiolampina/"
             target="_blank"
