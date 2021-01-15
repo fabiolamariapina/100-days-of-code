@@ -7,13 +7,9 @@ export default class Footer extends Component {
       display: flex;
       justify-content: space-between;
     `;
-    const footerSpiel = {
-      fontStyle: "italic",
-    };
-    // const link = {
-    //   textDecoration: "none",
-    //   color: "#4f4846",
-    // };
+    const FooterSpiel = styled.p`
+      font-style: italic;
+    `;
     const HoverLink = styled.a`
       color: #4f4846;
       text-decoration: none;
@@ -24,10 +20,10 @@ export default class Footer extends Component {
     `;
     return (
       <Footer id="footer">
-        <p className="trademark" style={footerSpiel}>
+        <FooterSpiel className="trademark">
           2020 © All Right Reserved
-        </p>
-        <p className="credit" style={footerSpiel}>
+        </FooterSpiel>
+        <FooterSpiel className="credit">
           Coded by{" "}
           <HoverLink
             // style={link}
@@ -37,7 +33,7 @@ export default class Footer extends Component {
           >
             Fabiola Pina
           </HoverLink>
-        </p>
+        </FooterSpiel>
       </Footer>
     );
   }
