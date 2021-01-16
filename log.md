@@ -453,3 +453,9 @@ Courses I focused on today:
   - A basic overview of GraphQL, a technology similar to REST that specifies how clients react with servers. Many frontend engineer and developer roles require this skill, which is why I decided to start learning it. GraphQL operations follows a CRUD like structure: queries are responsible for retrieving and mutations, where the existing schema is changes, are responsible for creeating, updating, and deleting. REST and GraphQL both support different HTTP methods usch as GET and POST. GrapphQL, unlike REST, is not resource based, but schema based. Every operation is fully described in a schema file. GraphQL is best used for multiple clients who ask for different subsets of data.
 - Webpack 5 Fundamentals
   - I set up and installed Webpack 5. Webpack is another skill I keep seeing in job descriptions so I decided to take this course to learn more about it.
+- Understanding TypeScript- 2021 Edition
+  - Review of TypeScript Types vs. JavaScript Types- JavaScript types are dynamic (resolved at runtime), TypeScript Types are static (set during development), Type Casing (the core primitvie types in TypeScript are all lowercase!), Working with Numbers, Strings, and Booleans- All numbers are floats by default, Type Assignment & Type Inferance, Quiz 1: Understanding Types, Object Types (any JavaScript object, more specific types of objects are possible), Nested Objects and Types, Array Types (any javascript array, type is flexible), Working with Tuples (tuples are not a vanilla JS type, it's a fixed-length array), Enum Type (not a vanilla JS type, gives you an enumerated list starting at 0), any type (does not tell typescript anything), Union types, Literal types
+- Portfolio Website
+  - edited my footer to have social media icons from font awesome and changed the spacing
+- Makeup Organizer
+  - added skeleton of landing page and installed react router
