@@ -14,8 +14,15 @@ function reverse(str) {
 
   // reverse the new array
   splitString.reverse();
-  console.log(splitString);
+  // confirm that it reversed sentence
+  // console.log(splitString);
 
-  // loop through newArray using .forEach
+  // loop through splitString array
+  for (let i = 0; i < splitString.length; i++) {
+    console.log(splitString[i]);
+    // for each word in the array, reverse it
+  }
 }
 reverse("Fabi loves Beyonce and Rihanna");
+
+// the actual solution
