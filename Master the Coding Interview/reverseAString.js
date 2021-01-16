@@ -25,20 +25,3 @@
 // }
 // reverse("Fabi loves Beyonce and Rihanna");
 
-// the actual solution
-// how to ideally appraoch the problem
-// function reverse(str) {
-//   // check input- what if the input is not a string?
-//   if (!str || str.length < 2 || typeof string !== "string") {
-//     return "I do not understand";
-//   }
-//   // convert string into an array
-//   const backwards = [];
-//   const totalItems = str.length - 1;
-//   for (let i = totalItems; i >= 0; i--) {
-//     backwards.push(str[i]);
-//   }
-//   console.log(backwards);
-//   return backwards.join("");
-// }
-// console.log(reverse("Fabi loves Beyonce"));
