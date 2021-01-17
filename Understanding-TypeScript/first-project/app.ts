@@ -1,7 +1,16 @@
+// Type Aliases- often usided to combine two union types
+// type name is something not reserved in TS/JS
+// can be any data type
+// benefit: makes code drieer, simpler, and cleaner, make intentions clear
+// Example #1
+type Combineable = number | String; // used where we had these two union types originally
+// Example #2
+type conversionDescriptor = "as-number" | "as-text"; // used where we had these two union types originally
+
 function combine(
-  input1: number | string,
-  input2: number | string,
-  resultConversion: "as-number" | "as-text"
+  input1: Combineable,
+  input2: Combineable,
+  resultConversion: conversionDescriptor
 ) {
   let result;
   // explicitly say that this is where number type goes
