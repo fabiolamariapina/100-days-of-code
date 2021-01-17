@@ -1,6 +1,7 @@
 # ask how many times did I have to tell you?
-times = int(input('How many times did I have to tell you?'))
+times = input('How many times did I have to tell you?')
+times = int(times)
 
 # loop through times
-for number in range(times):
+for time in range(times):
     print('CLEAN UP YOUR ROOM!')
