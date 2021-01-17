@@ -459,3 +459,11 @@ Courses I focused on today:
   - edited my footer to have social media icons from font awesome and changed the spacing
 - Makeup Organizer
   - added skeleton of landing page and installed react router
+
+### Day 30: January 16, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Master the Coding Interview
+  * Reverse a String Exercise Solution, Merge Sorted Arrays Exercise (I got the solution!!!),  
