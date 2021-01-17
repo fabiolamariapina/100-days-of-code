@@ -19,6 +19,15 @@ const printResult = (num: number) => {
 
 printResult(add(5, 12));
 
+// Function Types and Callbacks
+const addAndHandle = (n1: number, n2: number, cb: (num: number) => void) => {
+  const result = n1 + n2;
+  cb(result);
+};
+addAndHandle(10, 20, (result) => {
+  console.log(result);
+});
+
 // Functions as Types
 // Function types allow us to describe which type of
 // function specifically we want to use somewhere

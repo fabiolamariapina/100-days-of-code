@@ -13,7 +13,17 @@ var printResult = function (num) {
     console.log("Result: " + num);
 };
 printResult(add(5, 12));
+// Function Types and Callbacks
+var addAndHandle = function (n1, n2, cb) {
+    var result = n1 + n2;
+    cb(result);
+};
+addAndHandle(10, 20, function (result) {
+    console.log(result);
+});
 // Functions as Types
+// Function types allow us to describe which type of
+// function specifically we want to use somewhere
 // in this example, it is made clear that
 // combineValues is a function type
 // A function type is created with ES6 arrow notation
