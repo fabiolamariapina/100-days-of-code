@@ -7,4 +7,4 @@
 # EXAMPLE 2
 # ITERATE THROUGH A STRING
 for letter in "coffee":
-    print(letter*10)
+    print(letter)
