@@ -1,42 +1,36 @@
-// Type Aliases- often usided to combine two union types
-// type name is something not reserved in TS/JS
-// can be any data type
-// benefit: makes code drieer, simpler, and cleaner, make intentions clear
-// Example #1
-type Combineable = number | String; // used where we had these two union types originally
-// Example #2
-type conversionDescriptor = "as-number" | "as-text"; // used where we had these two union types originally
+// Functions
+// start using ES6 syntax
 
-function combine(
-  input1: Combineable,
-  input2: Combineable,
-  resultConversion: conversionDescriptor
-) {
-  let result;
-  // explicitly say that this is where number type goes
-  if (
-    (typeof input1 === "number" && typeof input2 === "number") ||
-    resultConversion === "as-number"
-  ) {
-    result = +input1 + +input2;
-  }
-  // explicitly say that this is where string type goes
-  else {
-    result = input1.toString() + input2.toString();
-  }
-  return result;
-  //   if (resultConversion === "as-number") {
-  //     return +result;
-  //   } else {
-  //     return result.toString();
-  //   }
-}
+// let TypeScript infer the type of return
 
-const combinedAges = combine(30, 26, "as-number");
-console.log(combinedAges);
+// Function Return Type Void
+// just means function does not have a return statement
+// it does not return anything
+// undefines can be used if there is a return statement
+// with no value
 
-const combinedStringAges = combine("30", "26", "as-number");
-console.log(combinedStringAges);
+const add = (n1: number, n2: number) => {
+  return n1 + n2;
+};
 
-const combinedNames = combine("Spongebob", "Patrick", "as-text");
-console.log(combinedNames);
+const printResult = (num: number) => {
+  console.log(`Result: ${num}`);
+};
+
+printResult(add(5, 12));
+
+// Functions as Types
+// Function types allow us to describe which type of
+// function specifically we want to use somewhere
+// in this example, it is made clear that
+// combineValues is a function type
+// A function type is created with ES6 arrow notation
+// after the arrow, specify the retuen type of the function
+// you want to add
+// here, we are telling typescipt that combineValues
+// should accept a function that takes two parameters,
+// where each parameter is a number, and where the
+// function overall then returns a number
+let combineValues: (a: number, b: number) => number;
+combineValues = add;
+console.log(combineValues(8, 8));
