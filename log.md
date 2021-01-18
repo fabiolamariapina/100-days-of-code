@@ -466,4 +466,18 @@ Courses I focused on today:
 What I focused on today:
 
 - Master the Coding Interview
-  * Reverse a String Exercise Solution, Merge Sorted Arrays Exercise (I got the solution!!!),  
+  - Reverse a String Exercise Solution, Merge Sorted Arrays Exercise (I got the solution!!!),
+
+### Day 31: January 17, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Potfolio Website
+  - Edited my about section by fixing the link to my resume. I changed the sharing setting on Google Docs to anyone with a link. I also added more to what I am currently learning and it encompasses all the Udemy courses I am taking. I also direct people to my socials and to wait for my first medium article.
+- Understanding TypeScript
+  - Reviewed Type Aliases/Customed Types, Type Aliases and Object Types (Type Aliases are not only used to create your own types, they are also used to provide and alias to a possibly complex object type), Quiz 2: Core Types & Concepts, Function Return Types & "void", Functions as Types, Function Types and Callbacks, Quiz 2: Functions & Types, The "Unknown" Type, The "never" type, Module Wrap-Up
+- The Modern Python 3 Bootcamp
+  - Reviewed the basics of for loops(written like this- for item in iterable object: do something with item), Exploring Ranges in Depth, Quiz 13: Ranges, for loops and range exercise, Exercise: Screaming Repeating, Exercise: Unlucky Numbers
+- Master the Coding Interview
+  - Hash Tables Introduction (basically another name for objects), Hash Function (A function that generates a fixed, random pattern for each input that it gets, assume a Big O notation of O(1) because it is really fast), Hash Collisions (insert- O(1), lookup-O(1), delete- O(1), search-O(1)), Hash Tables in Different Languages, Exercise: Implement a Hash Table, Solution: Implement a Hash Table (did not even try it myself, had not idea WTF was going on, I felt like the sloth from Zootopia)
