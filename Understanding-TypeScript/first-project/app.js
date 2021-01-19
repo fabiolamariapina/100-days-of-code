@@ -1,3 +1,4 @@
+"use strict";
 // THE "UNKNOWN" TYPE
 // here, it's unkown because we
 // do not know yet waht the user will
@@ -13,6 +14,8 @@ if (typeof userInput === "string") {
     userName = userInput;
 }
 // THE "NEVER" TYPE
+// never returns anything
+// esentially crash/break your script
 var generateError = function (message, code) {
     throw { message: message, erroeCode: code };
 };
