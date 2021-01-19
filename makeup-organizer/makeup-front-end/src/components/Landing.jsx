@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import styled from "styled-components";
+import Form from "react-bootstrap/Form";
+import Button from "react-bootstrap/Button";
 
 export default class Landing extends Component {
   render() {
@@ -9,6 +11,11 @@ export default class Landing extends Component {
     const LandingImage = styled.img`
       max-width: 70%;
     `;
+    const AboutMe = styled.h3`
+      display: flex;
+      justiify-content: center;
+    `;
+
     return (
       <Landing className="landing-main">
         <div className="landing-first-half">
@@ -18,13 +25,24 @@ export default class Landing extends Component {
             alt="aestically pleasing makeup"
           />
         </div>
-        <div className="welcome">
-          <div className="slogan">
-            <h3 className="page-header" id="landing-header">
-              I HELP YOU ORGANIZE YOUR MAKEUP
-            </h3>
-          </div>
-          <div className="log-in-create-account"></div>
+        <div className="log-in-form">
+          <Form>
+            <Form.Group controlId="formBasicEmail">
+              <Form.Label>Email address</Form.Label>
+              <br />
+              <Form.Control type="email" placeholder="Enter email" />
+            </Form.Group>
+            <br />
+            <Form.Group controlId="formBasicPassword">
+              <Form.Label>Password</Form.Label>
+              <br />
+              <Form.Control type="password" placeholder="Password" />
+            </Form.Group>
+            <br />
+            <Button variant="primary" type="submit">
+              Submit
+            </Button>
+          </Form>
         </div>
       </Landing>
     );
