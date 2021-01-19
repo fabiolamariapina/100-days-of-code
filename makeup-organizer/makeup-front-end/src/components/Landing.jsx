@@ -7,8 +7,8 @@ export default class Landing extends Component {
         <div className="landing-first-half">
           <img
             className="landing-image"
-            src="images/top-shelf-3.jpg"
-            alt="Slide 0"
+            src="images/makeup.jpg"
+            alt="aestically pleasing makeup"
           />
         </div>
 
