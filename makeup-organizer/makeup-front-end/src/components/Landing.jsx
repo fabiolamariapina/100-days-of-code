@@ -11,13 +11,12 @@ export default class Landing extends Component {
     const LandingImage = styled.img`
       max-width: 70%;
     `;
-    const AboutMe = styled.h3`
-      display: flex;
-      justiify-content: center;
+    const LogInForm = styled.div`
+      display: flex; 
+      justify-content: center;
     `;
-
     return (
-      <Landing className="landing-main">
+      <Landing>
         <div className="landing-first-half">
           <LandingImage
             className="landing-image"
@@ -25,7 +24,7 @@ export default class Landing extends Component {
             alt="aestically pleasing makeup"
           />
         </div>
-        <div className="log-in-form">
+        <LogInForm className="log-in-form">
           <Form>
             <Form.Group controlId="formBasicEmail">
               <Form.Label>Email address</Form.Label>
@@ -43,7 +42,7 @@ export default class Landing extends Component {
               Submit
             </Button>
           </Form>
-        </div>
+        </LogInForm>
       </Landing>
     );
   }
