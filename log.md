@@ -481,3 +481,16 @@ What I focused on today:
   - Reviewed the basics of for loops(written like this- for item in iterable object: do something with item), Exploring Ranges in Depth, Quiz 13: Ranges, for loops and range exercise, Exercise: Screaming Repeating, Exercise: Unlucky Numbers
 - Master the Coding Interview
   - Hash Tables Introduction (basically another name for objects), Hash Function (A function that generates a fixed, random pattern for each input that it gets, assume a Big O notation of O(1) because it is really fast), Hash Collisions (insert- O(1), lookup-O(1), delete- O(1), search-O(1)), Hash Tables in Different Languages, Exercise: Implement a Hash Table, Solution: Implement a Hash Table (did not even try it myself, had not idea WTF was going on, I felt like the sloth from Zootopia)
+
+  ### Day 32: January 18, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Vue.js Fast Crash Course
+  * Data Binding, Two Way Databinding
+- Learn JavaScript
+  * Classes- Reviewed Inheritance I lesson, Inheritance II, Inheritance III, Inheritance IV, Inheritance V, Static Methods, Review
+  * Browser Compatibility and Transpilcation- Introduction, canisue.com I
+- Makeup Organizer
+  * 
