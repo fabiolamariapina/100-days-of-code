@@ -493,4 +493,4 @@ What I focused on today:
   * Classes- Reviewed Inheritance I lesson, Inheritance II, Inheritance III, Inheritance IV, Inheritance V, Static Methods, Review
   * Browser Compatibility and Transpilcation- Introduction, canisue.com I
 - Makeup Organizer
-  * 
+  * Worked on my landing page and further practiced styled components. 
