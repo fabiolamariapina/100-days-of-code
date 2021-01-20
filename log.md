@@ -494,3 +494,15 @@ What I focused on today:
   * Browser Compatibility and Transpilcation- Introduction, canisue.com I
 - Makeup Organizer
   * Worked on my landing page and further practiced styled components. 
+
+### Day 33: January 19, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Understanding TypeScript
+  * The TypeScript Compiler (and its configuraton)
+    * Module Introduction, Using "Watch Mode" (works like npm start in React, tsc fileName.ts -w and it will start and complie as changes are made), Compliing the Entire Project/Multiple Files (command- tsc --init in project file), Including & Ecluding Files, setting a compilation target, Understanding TypeScript Core Libs, More Configuration & Compilation Options, Working with Source Maps, rootDir and outDir, 
+- Master the Coding Interview
+  * Data Structures: Hash Tables
+    * keys(), keys() without collision, Hash Tables vs. Arrays, Exercise and Solution: First Recurring Character
