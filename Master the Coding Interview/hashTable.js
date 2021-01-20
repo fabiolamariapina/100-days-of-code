@@ -53,3 +53,13 @@ const myHashTable = new HashTable(50);
 // call _hash function to myHashTable with key parameter
 myHashTable.set("grapes", 10000);
 myHashTable.get("grapes");
+
+// Hash Tables vs Arrays
+// Arrays:
+// search- O(n)
+// lookup- O(1)
+// push- O(1)
+// insert- O(n)
+// delete- O(n)
+// Hash Tabled
+// all the operations above are O(1)
