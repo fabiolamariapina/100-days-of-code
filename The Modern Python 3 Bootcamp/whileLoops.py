@@ -1,5 +1,5 @@
 # EXAMPLE #1 -> askin for user input
-# msg = input("What's the secret password?")
+msg = input("What's the secret password?")
 
 while msg != "bananas":
     print("WRONG!")
