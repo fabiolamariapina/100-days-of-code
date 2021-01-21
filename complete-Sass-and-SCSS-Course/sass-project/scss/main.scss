@@ -1,4 +1,35 @@
-@use "variables";
+@import "variables";
+
+// MIXIN
+@mixin warning {
+  background-color: orange;
+  color: white;
+}
+
+@mixin large-text {
+  font: {
+    size: 22px;
+    weight: bold;
+  }
+}
+
+@mixin rounded {
+  border-radius: 6px;
+}
+
+@mixin box {
+  @include rounded;
+  border: 1px solid #333;
+}
+
+@mixin fancy-links {
+  a {
+    font-style: italic;
+    text-decoration: none;
+  }
+}
+
+@include fancy-links;
 
 body {
   font-family: sans-serif;
@@ -12,13 +43,22 @@ h4 {
   font-family: $headline-font;
 }
 
+h2 {
+  @include large-text;
+}
+
 p {
   font-family: $text-font;
 }
 
 a {}
 
+.warning-button {
+  @include warning;
+}
+
 #header {
+  @include box;
   height: $header-height;
   background-color: $theme-color;
 
