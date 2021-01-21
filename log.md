@@ -480,6 +480,7 @@ What I focused on today:
 - The Modern Python 3 Bootcamp
   - Reviewed the basics of for loops(written like this- for item in iterable object: do something with item), Exploring Ranges in Depth, Quiz 13: Ranges, for loops and range exercise, Exercise: Screaming Repeating, Exercise: Unlucky Numbers
 - Master the Coding Interview
+
   - Hash Tables Introduction (basically another name for objects), Hash Function (A function that generates a fixed, random pattern for each input that it gets, assume a Big O notation of O(1) because it is really fast), Hash Collisions (insert- O(1), lookup-O(1), delete- O(1), search-O(1)), Hash Tables in Different Languages, Exercise: Implement a Hash Table, Solution: Implement a Hash Table (did not even try it myself, had not idea WTF was going on, I felt like the sloth from Zootopia)
 
   ### Day 32: January 18, 2021
@@ -488,12 +489,12 @@ What I focused on today:
 What I focused on today:
 
 - Vue.js Fast Crash Course
-  * Data Binding, Two Way Databinding
+  - Data Binding, Two Way Databinding
 - Learn JavaScript
-  * Classes- Reviewed Inheritance I lesson, Inheritance II, Inheritance III, Inheritance IV, Inheritance V, Static Methods, Review
-  * Browser Compatibility and Transpilcation- Introduction, canisue.com I
+  - Classes- Reviewed Inheritance I lesson, Inheritance II, Inheritance III, Inheritance IV, Inheritance V, Static Methods, Review
+  - Browser Compatibility and Transpilcation- Introduction, canisue.com I
 - Makeup Organizer
-  * Worked on my landing page and further practiced styled components. 
+  - Worked on my landing page and further practiced styled components.
 
 ### Day 33: January 19, 2021
 
@@ -501,8 +502,17 @@ What I focused on today:
 What I focused on today:
 
 - Understanding TypeScript
-  * The TypeScript Compiler (and its configuraton)
-    * Module Introduction, Using "Watch Mode" (works like npm start in React, tsc fileName.ts -w and it will start and complie as changes are made), Compliing the Entire Project/Multiple Files (command- tsc --init in project file), Including & Ecluding Files, setting a compilation target, Understanding TypeScript Core Libs, More Configuration & Compilation Options, Working with Source Maps, rootDir and outDir, 
+  - The TypeScript Compiler (and its configuraton)
+    - Module Introduction, Using "Watch Mode" (works like npm start in React, tsc fileName.ts -w and it will start and complie as changes are made), Compliing the Entire Project/Multiple Files (command- tsc --init in project file), Including & Ecluding Files, setting a compilation target, Understanding TypeScript Core Libs, More Configuration & Compilation Options, Working with Source Maps, rootDir and outDir,
 - Master the Coding Interview
-  * Data Structures: Hash Tables
-    * keys(), keys() without collision, Hash Tables vs. Arrays, Exercise and Solution: First Recurring Character
+  - Data Structures: Hash Tables
+    - keys(), keys() without collision, Hash Tables vs. Arrays, Exercise and Solution: First Recurring Character
+
+### Day 34: January 20, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Sass/SCSS
+  - Variables in SCSS, Partials in SCSS, Mixins in Sass,
+  - Once I got over my intial struggle of installing sass, I began to learn the syntax and what makes it cool and I cannot wait to use it in my projects.
