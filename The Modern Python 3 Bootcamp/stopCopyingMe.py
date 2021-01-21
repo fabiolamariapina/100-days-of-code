@@ -5,5 +5,5 @@ message = input("Say something")
 
 while message != "stop copying me":
     print(message)
-    message = input("Say something: ")
-print("Thank you!")
+    message = input("stop copying me: ")
+print("Ugh you're so annoying!")
