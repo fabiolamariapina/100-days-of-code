@@ -4,10 +4,16 @@
     color: white;
 }
 
-@mixin box-shadow($shadows...) {
+@mixin box-shadow($shadow...) {
     box-shadow: $shadow;
     -moz-box-shadoe: $shadow;
     -webkit-box-shadow: $shadow;
+}
+
+@mixin apply-to-ie-6 {
+    * html {
+        @content;
+    }
 }
 
 @mixin large-text {

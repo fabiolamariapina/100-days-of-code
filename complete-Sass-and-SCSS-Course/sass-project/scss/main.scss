@@ -27,6 +27,12 @@ a {}
   @include warning;
 }
 
+@include apply-to-ie-6 {
+  body {
+    font-size: 125%;
+  }
+}
+
 #header {
   @include box($border: 1px solid white);
   @include box-shadow(2px 0px 4px #999, 1px 1px 6px $secondary-color);
