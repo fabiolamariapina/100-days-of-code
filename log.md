@@ -516,3 +516,25 @@ What I focused on today:
 - Sass/SCSS
   - Variables in SCSS, Partials in SCSS, Mixins in Sass,
   - Once I got over my intial struggle of installing sass, I began to learn the syntax and what makes it cool and I cannot wait to use it in my projects.
+
+### Day 34: January 20, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Python 3
+  - Introducing While Loops, Exercide: Emoji Art, Exercsie: Stop Copying Me, The Break Keyword 
+
+### Day 35: January 24, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Master the Coding Interview- first 45 pages
+
+### Day 36: January 25, 2021
+
+**Thoughts**
+What I focused on today:
+
+- continue reading Master the Coding Interview 
