@@ -538,3 +538,10 @@ What I focused on today:
 What I focused on today:
 
 - continue reading Master the Coding Interview 
+
+### Day 36: January 25, 2021
+
+**Thoughts**
+What I focused on today:
+
+- continued reading Master the Coding Interview and FINALLY added a custom domain to my portfolio app deployed to Heroku 
