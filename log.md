@@ -545,3 +545,15 @@ What I focused on today:
 What I focused on today:
 
 - continued reading Master the Coding Interview and FINALLY added a custom domain to my portfolio app deployed to Heroku 
+
+# Day 37: February 1, 2021
+I finally feel recovered from the burnout I was feeling all of last week. Participating in the Pittsburgh Civic Hackathon provided some new inspiration. 
+
+What I focused on today:
+- Portfolio site
+  * added AD Rider to my projects section
+- Learn JavaScript
+  * caniuse.com II, Why ES6?, Learned Babel and Intermediate JavaScript Modules (module.exports, require() function)
+- Master the Coding Interview 
+  * Review Hash Tables, 
+
