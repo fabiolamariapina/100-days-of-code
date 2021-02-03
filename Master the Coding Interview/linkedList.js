@@ -23,10 +23,18 @@ class LinkedList {
             value: value,
             next: null
         }
+        // add node 
+        this.node = {
+            value: 
+        }
         this.tail = this.head;
         this.length = 1;
+    }
+    append(value) {
+        // myLinkedList.append(5) etc.
     }
 }
 
 const myLinkedList = new LinkedList(10);
 console.log(myLinkedList)
+myLinkedList.append(5)
