@@ -523,7 +523,7 @@ What I focused on today:
 What I focused on today:
 
 - Python 3
-  - Introducing While Loops, Exercide: Emoji Art, Exercsie: Stop Copying Me, The Break Keyword 
+  - Introducing While Loops, Exercide: Emoji Art, Exercsie: Stop Copying Me, The Break Keyword
 
 ### Day 35: January 24, 2021
 
@@ -537,23 +537,39 @@ What I focused on today:
 **Thoughts**
 What I focused on today:
 
-- continue reading Master the Coding Interview 
+- continue reading Master the Coding Interview
 
 ### Day 36: January 25, 2021
 
 **Thoughts**
 What I focused on today:
 
-- continued reading Master the Coding Interview and FINALLY added a custom domain to my portfolio app deployed to Heroku 
+- continued reading Master the Coding Interview and FINALLY added a custom domain to my portfolio app deployed to Heroku
 
 # Day 37: February 1, 2021
-I finally feel recovered from the burnout I was feeling all of last week. Participating in the Pittsburgh Civic Hackathon provided some new inspiration. 
+
+**Thoughts**
+I finally feel recovered from the burnout I was feeling all of last week. Participating in the Pittsburgh Civic Hackathon provided some new inspiration.
 
 What I focused on today:
-- Portfolio site
-  * added AD Rider to my projects section
-- Learn JavaScript
-  * caniuse.com II, Why ES6?, Learned Babel and Intermediate JavaScript Modules (module.exports, require() function)
-- Master the Coding Interview 
-  * Review Hash Tables, 
 
+- Portfolio site
+  - added AD Rider to my projects section
+- Learn JavaScript
+  - caniuse.com II, Why ES6?, Learned Babel and Intermediate JavaScript Modules (module.exports, require() function)
+- Master the Coding Interview
+  - Review Hash Tables
+
+# Day 38: February 2, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Understanding TypeScript 2021
+  - finished learning aboutand customizing my TypeScript compiler
+    - noEmitOnError- set it to true so that TS does not compile any files that have an error, Strict Compilation, Code Quality Options, Debugging with Visual Studio Code (still did not fully work, will try again eventually)
+  - Classes & Interfaces
+    - What are classes?, constructor functions and the this keyword, "private" and "public" access modifiers, shorthand intialization, "readonly" properties, Quiz 4: Class Basics
+- Master the Coding Interview
+  - Linked Lists
+    - Linked Lists Introduction, What is a Linked List?, Why a Linked List?, What is a Pointer?, Our First Linked List, Solution: append()
