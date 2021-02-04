@@ -1,5 +1,7 @@
-@import "variables";
-@import "mixins";
+@import "partials/variables";
+@import "partials/mixins";
+
+@include fancy-links;
 
 body {
   font-family: sans-serif;
