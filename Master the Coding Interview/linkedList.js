@@ -36,6 +36,19 @@ class LinkedList {
         this.length++;
         return this;
     }
+    prepend(value) {
+        // goal: add a value before 10
+        // myLinkedList.prepend(10)
+        // create characteristic of node
+        const firstNode = {
+            value: value,
+            next: this.head
+        }
+        // link it to next node
+        this.tail.next = firstNode;
+        this.tail = firstNode;
+        this.length++;
+    }
 }
 
 const myLinkedList = new LinkedList(10);
