@@ -16,6 +16,15 @@
 //     }
 // }
 
+// Node Class
+class Node {
+    constructor(value) {
+        this.value = value;
+        this.next = null;
+    }
+}
+
+
 // create class that will instantiate a linked list
 class LinkedList {
     constructor(value) { //value of the head
@@ -27,10 +36,7 @@ class LinkedList {
         this.length = 1;
     }
     append(value) {
-        const newNode = {
-            value: value,
-            next: null
-        };
+        const newNode = new Node(value);
         this.tail.next = newNode;
         this.tail = newNode;
         this.length++;
@@ -38,10 +44,7 @@ class LinkedList {
     }
     prepend(value) {
         // create node we're going to add
-        const newNode = {
-            value: value,
-            next: null
-        };
+        const newNode = new Node(value);
         // new node will point to head
         newNode.next = this.head;
         this.head = newNode;
