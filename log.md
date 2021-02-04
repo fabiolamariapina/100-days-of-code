@@ -573,3 +573,14 @@ What I focused on today:
 - Master the Coding Interview
   - Linked Lists
     - Linked Lists Introduction, What is a Linked List?, Why a Linked List?, What is a Pointer?, Our First Linked List, Solution: append()
+
+# Day 39: February 3, 2021
+
+**Thoughts**
+What I focused on today:
+
+- The Complete Sass/SCSS Course
+  - Reviewed passing content into mixins
+  - Imports, Media Queries, and Operators
+- Master the Coding Interview
+  - prepend() with Linked Lists and Node Class
