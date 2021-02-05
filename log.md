@@ -584,3 +584,12 @@ What I focused on today:
   - Imports, Media Queries, and Operators
 - Master the Coding Interview
   - prepend() with Linked Lists and Node Class
+
+# Day 40: February 4, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Ruby for Absolute Beginners
+  * So, I am almost confirmed for a really awesome volunteer opportunity for an area I am knowledgable and passionate about and will add experience to my portfolio. However, Ruby + Rails are part of the stack. Since I have heard it is easy to learn, I decided to sign up for two free courses to learn as much of it as I can before I begin. Today was dedicated to setting up the dev envionment. IT was going ok, since i already have Ruby installed as a MAC user and i figured out hoe to add Java to my .bash profile eventually. However, RubyMine gives me a lot of trouble. It is giving me so much trouble that I gave up fpr the day and will try again tomorrow. 
+
