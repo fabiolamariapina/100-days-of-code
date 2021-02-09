@@ -594,10 +594,18 @@ What I focused on today:
 
   - So, I am almost confirmed for a really awesome volunteer opportunity for an area I am knowledgable and passionate about and will add experience to my portfolio. However, Ruby + Rails are part of the stack. Since I have heard it is easy to learn, I decided to sign up for two free courses to learn as much of it as I can before I begin. Today was dedicated to setting up the dev envionment. IT was going ok, since i already have Ruby installed as a MAC user and i figured out hoe to add Java to my .bash profile eventually. However, RubyMine gives me a lot of trouble. It is giving me so much trouble that I gave up fpr the day and will try again tomorrow.
 
-  # Day 41: February 4, 2021
+# Day 41: February 5, 2021
 
 **Thoughts**
 What I focused on today:
 
 - Ruby for Absolute Beginners
   - Finsihed setting up dev environment, began learning about strings
+
+# Day 42: February 8, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Learn JavaScript
+  - continued module exports, export default, import, named exports, named imports, named imports, export named exports
