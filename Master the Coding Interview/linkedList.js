@@ -52,11 +52,18 @@ class LinkedList {
         return this;
     }
     insert(index, value) {
+        // create new node
+        const newNode = new Node(value);
+        // loop through list
         
+        // when loop reaches index, point
+        // to value to be inertes
+        // insert and shift
     }
 }
 
 const myLinkedList = new LinkedList(10);
 myLinkedList.append(5);
 myLinkedList.append(16);
+myLinkedList.append(2, 99); 
 console.log(myLinkedList);
