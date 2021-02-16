@@ -609,3 +609,21 @@ What I focused on today:
 
 - Learn JavaScript
   - continued module exports, export default, import, named exports, named imports, named imports, export named exports
+
+# Day 43: February 8, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Master the Coding Interview
+  - Linked Lists
+    * insert (), 
+
+# Day 44: February 15, 2021
+
+**Thoughts**
+What I focused on today:
+
+- CodeSignal coding challenges
+- added Miami Vax to my portfolio website
+- Learn JavaScript
