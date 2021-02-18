@@ -27,6 +27,9 @@
 
 const reverse2 = (str) => {
   // using built in array methods will not make it necessary to have to check if input is a string
-  return str.split("").reverse("").join("");
+  // normal string
+  // return str.split("").reverse("").join("");
+  // array with characters ala leetcode 
+  // return str.reverse() 
 };
-console.log(reverse2("Hi my name is Fabi"));
+console.log(reverse2(["h", "e", "l", "l", "o"]))

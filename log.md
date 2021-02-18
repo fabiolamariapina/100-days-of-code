@@ -627,3 +627,12 @@ What I focused on today:
 - CodeSignal coding challenges
 - added Miami Vax to my portfolio website
 - Learn JavaScript
+
+# Day 44 + 45 : February 16, 2021 + Febrary 17, 2021
+
+**Thoughts**
+What I focused on today:
+
+- fixed responsiveness of my portfolio website
+- CodeSignal challenges 
+
