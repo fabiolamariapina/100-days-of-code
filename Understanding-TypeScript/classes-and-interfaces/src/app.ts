@@ -1,7 +1,7 @@
 class Department {
   //   private id: string;
   //   private name: string;
-  private employees: string[] = [];
+  protected employees: string[] = [];
 
   constructor(private readonly id: string, public name: string) {
     // this.id = id;
@@ -22,15 +22,46 @@ class Department {
   }
 }
 
-const accounting = new Department("d1", "Accounting");
-// console.log(accounting);
-accounting.describe();
+class ITDepartment extends Department {
+  constructor(id: string, public admins: string[]) {
+    super(id, "IT");
+    this.admins = admins;
+  }
+}
 
-accounting.addEmployee("Bob");
+class AccountingDepartment extends Department {
+  constructor(id: string, private reports: string[]) {
+    super(id, "Accouting");
+  }
+  addReport(text: string) {
+    this.reports.push(text);
+  }
+  printReports() {
+    console.log(this.reports);
+  }
+  // add our won add employee method -> override
+  addEmployee(name: string) {
+    if (name === "Fabi") {
+      return;
+    } else {
+      this.employees.push(name);
+    }
+  }
+}
 
-accounting.addEmployee("Bobina");
+// IT department
+const it = new ITDepartment("d1", ["Joey"]);
+it.describe();
+it.addEmployee("Bob");
+it.addEmployee("Bobina");
+it.printEmployeeInformation();
+console.log(it);
 
+// Accounting department
+const accounting = new AccountingDepartment("d2", []);
+accounting.addReport("something went wrong");
+accounting.printReports();
+accounting.addEmployee("Fabi");
+accounting.addEmployee("Gabi");
 accounting.printEmployeeInformation();
-
-// const accountingCopy = { name: "Dummy", describe: accounting.describe };
-// accountingCopy.describe();
+console.log(accounting);
