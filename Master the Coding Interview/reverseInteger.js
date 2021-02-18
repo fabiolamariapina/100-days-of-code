@@ -11,7 +11,7 @@ const reverse = (x) => {
     // to go outside the signed 32-bit 
     // integer range [-2^31, 2^31 - 1], 
     // then return 0 
-    if (finalNumber >= (Math.pow(-2, 31)) || finalNumber <= (Math.pow(2, 31))) {
+    if (finalNumber >= (Math.pow(-2, 31)) && finalNumber <= (Math.pow(2, 31) - 1)) {
         console.log(finalNumber)
     } else(
         console.log(0)
@@ -21,4 +21,4 @@ const reverse = (x) => {
 reverse(123) // 321
 reverse(-321) // -123 
 reverse(120) // 21  
-reverse(1534236469) // 0
+reverse(1534236469) // 0 
