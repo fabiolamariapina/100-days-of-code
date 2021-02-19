@@ -566,7 +566,7 @@ What I focused on today:
 What I focused on today:
 
 - Understanding TypeScript 2021
-  - finished learning aboutand customizing my TypeScript compiler
+  - finished learning about and customizing my TypeScript compiler
     - noEmitOnError- set it to true so that TS does not compile any files that have an error, Strict Compilation, Code Quality Options, Debugging with Visual Studio Code (still did not fully work, will try again eventually)
   - Classes & Interfaces
     - What are classes?, constructor functions and the this keyword, "private" and "public" access modifiers, shorthand intialization, "readonly" properties, Quiz 4: Class Basics
@@ -617,7 +617,7 @@ What I focused on today:
 
 - Master the Coding Interview
   - Linked Lists
-    * insert (), 
+    - insert (),
 
 # Day 44: February 15, 2021
 
@@ -628,11 +628,27 @@ What I focused on today:
 - added Miami Vax to my portfolio website
 - Learn JavaScript
 
-# Day 44 + 45 : February 16, 2021 + Febrary 17, 2021
+# Day 45 + 46 : February 16, 2021 + Febrary 17, 2021
 
 **Thoughts**
 What I focused on today:
 
 - fixed responsiveness of my portfolio website
-- CodeSignal challenges 
+- CodeSignal challenges
 
+# Day 47: February 17, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Leetcode
+
+# Day 48: February 18, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Understanding TypeScript
+  - Classes & Interfaces
+    - Inheritance, Overriding properties & the "protected" modifier, Getters & Setters, Static Methods & Properties, Singletons & Private Constructors, Classes: A Summary, Quiz 5: Classes
+- Leetcode (mostly studying problems and watching explanation on youtube)
