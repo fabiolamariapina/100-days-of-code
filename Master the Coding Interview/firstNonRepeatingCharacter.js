@@ -1,12 +1,18 @@
-function firstNonRepeatingCharacter(s) {
+var firstUniqChar = function (s) {
+    const characterCount = {}
+
     for (let i = 0; i < s.length; i++) {
-        if (s.indexOf(s[i]) == i && s.indexOf(s[i], i + 1) == -1) {
-            return s[i];
+        const char = s[i]
+        characterCount[char] = characterCount[char] + 1 || 1
+    }
+
+    for (let i = 0; i < s.length; i++) {
+        const char = s[i]
+        if (characterCount[char] === 1) {
+            console.log(i)
         }
     }
-    return "_";
-}
-let testCase1 = firstNonRepeatingCharacter("abacabad") // C
-console.log(testCase1)
-let testCase2 = firstNonRepeatingCharacter("abacabaabacaba") // _
-console.log(testCase2)
+    console.log(-1)
+};
+firstUniqChar("leetcode") // 0
+firstUniqChar("loveleetcode") // 2 
