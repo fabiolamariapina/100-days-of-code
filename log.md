@@ -660,4 +660,12 @@ What I focused on today:
 
 - Began a new project/app called Daily News, which is essentially a single-page app for a user to see current events an news covered by different news sources. For this one, I am experimenting with Next.js, third-part APIs, react-responsive, and jest for testing. Today, I created a next.js app and added the app name and styled it using google fonts and styled components.
 - More leetcode
-  - did FizzBuzz problem, which I understand on a deep level, as I usually have done and Leetcode would not accept my solution even thoguh it compiled on my local device. Leetcode is dumb but Imma keep doing it. 
+
+  - did FizzBuzz problem, which I understand on a deep level, as I usually have done and Leetcode would not accept my solution even thoguh it compiled on my local device. Leetcode is dumb but Imma keep doing it.
+
+  # Day 50: March 1, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Continued working on Daily News application.
