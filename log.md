@@ -663,9 +663,16 @@ What I focused on today:
 
   - did FizzBuzz problem, which I understand on a deep level, as I usually have done and Leetcode would not accept my solution even thoguh it compiled on my local device. Leetcode is dumb but Imma keep doing it.
 
-  # Day 50: March 1, 2021
+ # Day 50: March 1, 2021
 
 **Thoughts**
 What I focused on today:
 
 - Continued working on Daily News application.
+
+# Day 51: March 2, 2021
+
+**Thoughts**
+What I focused on today:
+
+- Continued working on Daily News application. I decided to experiment with React Hooks since the way I have done forms before was not working. This is only my second time working with them, but it has been intersting seeing how they can build a search bar that works with a third party API. This article "https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/" is really hammering in the concepts for me. 
