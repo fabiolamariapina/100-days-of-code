@@ -676,3 +676,12 @@ What I focused on today:
 What I focused on today:
 
 - Continued working on Daily News application. I decided to experiment with React Hooks since the way I have done forms before was not working. This is only my second time working with them, but it has been intersting seeing how they can build a search bar that works with a third party API. This article "https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/" is really hammering in the concepts for me. 
+
+# Day 52: March 8, 2021
+
+**Thoughts**
+If there is one thing I am learning from this experience, is that I cannot ode everyday for at least 30 minutes. On most days after work, i just want to forget my professional life and not code. I would rather use that time to foster my interests and relationships. In sum, it really showed me how much I value work-life balance anf taking breaks. 
+
+What I focused on today:
+
+- back on that LeetCode grind
